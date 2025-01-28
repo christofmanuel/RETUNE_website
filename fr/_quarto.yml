@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: "../public/fr"
+  output-dir: "../docs/fr"
 
 website:
   back-to-top-navigation: true
