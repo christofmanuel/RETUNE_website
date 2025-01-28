@@ -1,5 +1,6 @@
 ---
 title: "Prof. Gilles Wandeler, MD PhD"
+role: "Site Investigator"
 people_group: "any1"
 email: "gilles.wandeler@insel.ch"
 page-layout: full

@@ -1,5 +1,6 @@
 ---
 title: "Marcel Stöckle, MD"
+role: "Site Investigator"
 people_group: "any2"
 email: "marcel.stöckle@usb.ch"
 page-layout: full
@@ -13,9 +14,6 @@ about:
     - icon: envelope
       text: Email
       href: mailto:marcel.stöckle@usb.ch 
-    - icon: linkedin
-      text: LinkedIn
-      href: https://ch.linkedin.com/in/marcel-stoeckle-1a5157337
     - icon: link
       text: More Information
       href: https://www.unispital-basel.ch/infektiologie

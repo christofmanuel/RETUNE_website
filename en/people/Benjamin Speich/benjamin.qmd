@@ -1,5 +1,6 @@
 ---
 title: "Benjamin Speich, PhD"
+role: "Scientific Advisor"
 people_group: "any"
 email: "benjamin.speich@usb.ch"
 page-layout: full
@@ -10,15 +11,9 @@ about:
   image-shape: round
   image: benjamin.jpeg
   links:
-    - icon: envelope
-      text: Email
-      href: mailto:benjamin.speich@usb.ch
-    - icon: linkedin
-      text: LinkedIn
-      href: https://ch.linkedin.com/in/benjamin-speich-49736190
     - icon: link
       text: More Information
-      href: https://clinepi.dkf.unibas.ch/en/speich/
+      href: https://universe.unibas.ch/people/987/237/overview 
 ---
 
 <div style="text-align: center;">

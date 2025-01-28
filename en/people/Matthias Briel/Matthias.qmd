@@ -1,5 +1,6 @@
 ---
 title: "Prof. Matthias Briel, MD PhD"
+role: "Co-Principal Investigator"
 people_group: "any"
 email: "matthias.briel@usb.ch"
 page-layout: full
@@ -13,9 +14,6 @@ about:
     - icon: envelope
       text: Email
       href: mailto:matthias.briel@usb.ch
-    - icon: linkedin
-      text: LinkedIn
-      href: https://ch.linkedin.com/in/matthias-briel-97639882
     - icon: link
       text: More Information
       href: https://universe.unibas.ch/people/293/94/overview

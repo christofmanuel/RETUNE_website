@@ -1,5 +1,6 @@
 ---
-title: "David Jackson-Perry"
+title: "David Jackson-Perry, PhD"
+role: "Member of the Participant Advisory Board"
 people_group: "any"
 page-layout: full
 image: davidJackson.jpeg
@@ -8,9 +9,6 @@ about:
   template: jolla
   image-shape: round
   image: davidJackson.jpeg
-  links:
-    - icon: linkedin
-      text: LinkedIn
 ---
 
 <div style="text-align: center;">

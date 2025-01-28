@@ -1,5 +1,6 @@
 ---
 title: "Katharina Kusejko, PhD"
+role: "Head of SHCS data center"
 people_group: "any"
 email: "katharina.kusejko@usz.ch"
 page-layout: full
@@ -10,12 +11,6 @@ about:
   image-shape: round
   image: Katharina.jpg
   links:
-    - icon: envelope
-      text: Email
-      href: mailto:katharina.kusejko@usz.ch
-    - icon: linkedin
-      text: LinkedIn
-      href: https://ch.linkedin.com/in/katharina-kusejko-62a42118a
     - icon: link
       text: More Information
       href: https://www.usz.ch/team/katharina-kusejko/

@@ -1,5 +1,6 @@
 ---
 title: "Christof Schönenberger, MD"
+role: "Co-Principal Investigator"
 people_group: "any"
 email: "christofmanuel.schoenenberger@usb.ch"
 page-layout: full
@@ -13,12 +14,9 @@ about:
     - icon: envelope
       text: Email
       href: mailto:christofmanuel.schoenenberger@usb.ch 
-    - icon: linkedin
-      text: LinkedIn
-      href: https://ch.linkedin.com/in/christof-manuel-schönenberger-65326629b
     - icon: link
       text: More Information
-      href: https://clinepi.dkf.unibas.ch/en/schoenenberger/
+      href: https://universe.unibas.ch/people/10059/94/overview
   
 ---
 <div style="text-align: center;">

@@ -1,5 +1,6 @@
 ---
 title: "David Haerry"
+role: "Member of the Participant Advisory Board"
 people_group: "any"
 page-layout: full
 image: DavidHaerry.jpeg
@@ -8,13 +9,6 @@ about:
   template: jolla
   image-shape: round
   image: DavidHaerry.jpeg
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://ch.linkedin.com/in/david-haerry-72839737
-    - icon: link
-      text: More Information
-      href: https://www.patvocates.net/david-haerry/
 ---
 
 <div style="text-align: center;">

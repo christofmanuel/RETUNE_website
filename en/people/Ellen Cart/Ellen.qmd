@@ -1,5 +1,6 @@
 ---
 title: "Ellen Cart"
+role: "Member of the Participant Advisory Board"
 people_group: "any"
 page-layout: full
 image: ellen.jpeg
@@ -8,10 +9,6 @@ about:
   template: jolla
   image-shape: round
   image: ellen.jpeg
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://ch.linkedin.com/in/ellen-cart-6b5463b1
 ---
 
 <div style="text-align: center;">

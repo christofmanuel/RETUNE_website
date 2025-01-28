@@ -79,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-project","listing-website","listing-html","listing-style","listing-editor","listing-language","listing-format","listing-title","listing-people_group","listing-email","listing-page-layout","listing-image","listing-about","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+      searchColumns: ["listing-project","listing-website","listing-html","listing-style","listing-editor","listing-language","listing-format","listing-title","listing-role","listing-people_group","listing-email","listing-page-layout","listing-image","listing-about","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -243,6 +243,11 @@ window.Quarto = {
 </i> 
 <span class="menu-text">Registry</span></a>
   </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/christofmanuel/RETUNE_website"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -285,90 +290,59 @@ window.Quarto = {
 <div class="quarto-listing quarto-listing-container-custom" id="listing-any3">
 
 <div class="quarto-listing quarto-listing-container-grid">
-  
   <div class="list grid quarto-listing-cols-4"> 
-    
-     
+
     
     <div class="g-col-1 listing-box">
-      
-      
-      
       <a href="./people/Dominique Braun/Dominique.html" role="button" class="quarto-grid-link">
         <div class="quarto-grid-item card h-100 card-left">
-          
-          
           <p class="card-img-top">
-            <img alt="Prof. Dominique Braun, MD" src="./people/Dominique Braun/dominique.jpeg" class="thumbnail-image card-img listing-box-image" style="height" 150px;"="">
+<img alt="Prof. Dominique Braun, MD" src="./people/Dominique Braun/dominique.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: auto;">
           </p>
-          
           <div class="card-body post-contents">
-            
+            <!-- Name / Title -->
             <div class="listing-box-title">
-              Prof. Dominique Braun, MD<br> 
+              Prof. Dominique Braun, MD
             </div>
-                
-            
-              
-          <!--    <div class="listing-box-education">
-                
-                
-                    <p>  </p>
-                    
-                    
-              </div>  -->
-                  
 
+            <!-- Role (custom field from front matter) -->
             
+            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
+              Site Investigator
+            </div>
             
+
           </div>  
-        </div>  
+        </div>
       </a>
-      
     </div>
-  
-     
     
     <div class="g-col-1 listing-box">
-      
-      
-      
       <a href="./people/Huldrych F Günthard/Huldrych.html" role="button" class="quarto-grid-link">
         <div class="quarto-grid-item card h-100 card-left">
-          
-          
           <p class="card-img-top">
-            <img alt="Prof. Huldrych Günthard, MD" src="./people/Huldrych F Günthard/Huldrych.jpeg" class="thumbnail-image card-img listing-box-image" style="height" 150px;"="">
+<img alt="Prof. Huldrych Günthard, MD" src="./people/Huldrych F Günthard/Huldrych.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: auto;">
           </p>
-          
           <div class="card-body post-contents">
-            
+            <!-- Name / Title -->
             <div class="listing-box-title">
-              Prof. Huldrych Günthard, MD<br> 
+              Prof. Huldrych Günthard, MD
             </div>
-                
-            
-              
-          <!--    <div class="listing-box-education">
-                
-                
-                    <p>  </p>
-                    
-                    
-              </div>  -->
-                  
 
+            <!-- Role (custom field from front matter) -->
             
+            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
+              Study Physician
+            </div>
             
+
           </div>  
-        </div>  
+        </div>
       </a>
-      
     </div>
-  
     
-  
-</div>
+
+  </div>
 </div>
 
 <hr>

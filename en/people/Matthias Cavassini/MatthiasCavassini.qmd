@@ -1,5 +1,6 @@
 ---
 title: "Prof. Matthias Cavassini, MD"
+role: "Site Investigator"
 people_group: "any6"
 email: ""
 page-layout: full
@@ -10,9 +11,9 @@ about:
   image-shape: round
   image: MatthiasCavassini.jpeg
   links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://ch.linkedin.com/in/cavassini-matthias-339682b
+    - icon: envelope
+      text: Email
+      href: mailto:matthias.cavassini@chuv.ch
     - icon: link
       text: More Information
       href: https://www.chuv.ch/fr/min/min-home/le-service-en-bref/nos-equipes/cadres/dr-matthias-cavassini

@@ -1,5 +1,6 @@
 ---
 title: "Frédérique Chammartin, PhD"
+role: "Trial Statistican"
 people_group: "any"
 email: "frédérique.chammartin@usb.ch"
 page-layout: full
@@ -10,12 +11,6 @@ about:
   image-shape: round
   image: Frederique.png
   links:
-    - icon: envelope
-      text: Email
-      href: mailto:frédérique.chammartin@usb.ch
-    - icon: linkedin
-      text: LinkedIn
-      href: https://ch.linkedin.com/in/frédérique-chammartin-46b4aa6a
     - icon: link
       text: More Information
       href: https://universe.unibas.ch/people/6927/94/overview
