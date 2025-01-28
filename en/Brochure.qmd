@@ -1,0 +1,36 @@
+---
+title: "Product Brochure"
+format: html
+---
+
+# Product information brochures
+
+### E-cigarettes:
+
+English
+
+German
+
+French
+
+Italian
+
+### Nicotine pouches:
+
+English
+
+German
+
+French
+
+Italian
+
+### Nicotine patches:
+
+English
+
+German
+
+French
+
+Italian

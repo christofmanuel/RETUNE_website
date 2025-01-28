@@ -1,0 +1,19 @@
+---
+title: "RETUNE"
+image: "images/logo2.png"
+about:
+  template: marquee
+  image-shape: rectangle
+  image-width: 45em
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:christof.schoenenberger@usb.ch"  
+    - icon: folder
+      text: Registry
+      href: https://clinicaltrials.gov/
+---
+
+**Reduce tobacco use in people living with HIV in Switzerland: A pragmatic randomized trial within the Swiss HIV Cohort Study**
+
+Französischer Text 

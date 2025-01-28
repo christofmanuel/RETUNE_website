@@ -1,0 +1,23 @@
+---
+title: "Ellen Cart"
+people_group: "any"
+page-layout: full
+image: ellen.jpeg
+about: 
+  id: about
+  template: jolla
+  image-shape: round
+  image: ellen.jpeg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://ch.linkedin.com/in/ellen-cart-6b5463b1
+---
+
+<div style="text-align: center;">
+  <p style="font-size: 18px; font-weight: bold;">Member of the Participant
+Advisory Board</p>
+</div>
+
+
+

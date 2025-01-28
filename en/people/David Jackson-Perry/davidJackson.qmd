@@ -1,0 +1,22 @@
+---
+title: "David Jackson-Perry"
+people_group: "any"
+page-layout: full
+image: davidJackson.jpeg
+about: 
+  id: about
+  template: jolla
+  image-shape: round
+  image: davidJackson.jpeg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+---
+
+<div style="text-align: center;">
+  <p style="font-size: 18px; font-weight: bold;">Member of the Participant
+Advisory Board</p>
+</div>
+
+
+

@@ -1,0 +1,27 @@
+---
+title: "Sandra Chaudron, PhD"
+people_group: "any"
+email: "Sandra.Chaudron@usz.ch"
+page-layout: full
+image: Sandra.jpeg
+about: 
+  id: about
+  template: jolla
+  image-shape: round
+  image: Sandra.jpeg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:Sandra.Chaudron@usz.ch
+    - icon: linkedin
+      text: LinkedIn
+      href: https://ch.linkedin.com/in/sandraechaudron
+---
+
+<div style="text-align: center;">
+  <p style="font-size: 18px; font-weight: bold;">Head of Data Center</p>
+</div>
+
+
+
+

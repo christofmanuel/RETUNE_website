@@ -1,0 +1,70 @@
+[
+  {
+    "listing": "/Further.html",
+    "items": [
+      "/people/Frédérique Chammartin/Frederique.html",
+      "/people/Benjamin Speich/benjamin.html",
+      "/people/Niklaus Labhardt/Niklaus.html",
+      "/people/Reto Auer/Reto.html"
+    ]
+  },
+  {
+    "listing": "/Principal.html",
+    "items": [
+      "/people/David Haerry/DavidHaerry.html",
+      "/people/Ellen Cart/Ellen.html",
+      "/people/Christof Schoenenberger/Christof.html",
+      "/people/Alain Amstutz/Alain.html",
+      "/people/Matthias Briel/Matthias.html",
+      "/people/Niklaus Labhardt/Niklaus.html",
+      "/people/Reto Auer/Reto.html",
+      "/people/Aurélie Berthet/Aurélie.html",
+      "/people/Benjamin Speich/benjamin.html",
+      "/people/David Jackson-Perry/davidJackson.html",
+      "/people/Frédérique Chammartin/Frederique.html",
+      "/people/Katharina Kusejko/Katharina.html",
+      "/people/Sandra Chaudron/Sandra.html"
+    ]
+  },
+  {
+    "listing": "/StGallen.html",
+    "items": [
+      "/people/Julia Notter/Julia.html",
+      "/people/Tamara Dörr/Tamara.html"
+    ]
+  },
+  {
+    "listing": "/Basel.html",
+    "items": [
+      "/people/Marcel Stöckle/Marcel.html",
+      "/people/Maja Weissner Rohacek/Maja.html"
+    ]
+  },
+  {
+    "listing": "/Genf.html",
+    "items": [
+      "/people/Alexandra Calmy/Alexandra.html"
+    ]
+  },
+  {
+    "listing": "/Zurich.html",
+    "items": [
+      "/people/Dominique Braun/Dominique.html",
+      "/people/Huldrych F Günthard/Huldrych.html"
+    ]
+  },
+  {
+    "listing": "/Bern.html",
+    "items": [
+      "/people/Bernard Surial/Bernard.html",
+      "/people/Andri Rauch/Andri.html",
+      "/people/Gilles Wandeler/Gilles.html"
+    ]
+  },
+  {
+    "listing": "/Lausanne.html",
+    "items": [
+      "/people/Matthias Cavassini/MatthiasCavassini.html"
+    ]
+  }
+]
