@@ -2,7 +2,7 @@
 title: "Patrick Schmid, MD"
 role: "Site Investigator"
 people_group: "any4"
-email: "julia.notter@h-och.ch"
+email: "patrick.schmid@kssg.ch"
 page-layout: full
 image: patrick.avif
 about: 
@@ -13,7 +13,7 @@ about:
   links:
     - icon: link
       text: More Information
-      href: https://www.h-och.ch/ueber-uns/team/julia-notter/
+      href: https://www.h-och.ch/ueber-uns/team/patrick-schmid/
 ---
 
 <div style="text-align: center;">
