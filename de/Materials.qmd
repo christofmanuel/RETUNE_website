@@ -1,0 +1,23 @@
+---
+title: "Consent Forms"
+---
+
+# Informed consent forms
+
+## Basel
+
+##### English:
+
+[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.1_USB_clean.pdf){target="_blank"}
+
+##### German:
+
+[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.1_USB_clean.pdf){target="_blank"}
+
+##### French:
+
+[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.1_USB_clean.pdf){target="_blank"}
+
+##### Italian:
+
+[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.1_USB_clean.pdf){target="_blank"}

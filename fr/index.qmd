@@ -11,9 +11,59 @@ about:
       href: "mailto:christof.schoenenberger@usb.ch"  
     - icon: folder
       text: Registry
-      href: https://clinicaltrials.gov/
+      href: https://clinicaltrials.gov/study/NCT06789692?cond=NCT06789692&rank=1
 ---
 
-**Reduce tobacco use in people living with HIV in Switzerland: A pragmatic randomized trial within the Swiss HIV Cohort Study**
+**RETUNE is a pragmatic randomized trial within the Swiss HIV Cohort Study. The goal of this study is to test different nicotine substitution products to stop tobacco smoking.**
 
-Französischer Text 
+Tobacco smoking is a major health burden in people living with HIV. Tobacco smoking is major risk factor for the development of cardiovascular disease (for example heart attack) and cancer (for example lung cancer).
+
+RETUNE will test a menu of different nicotine substitution products:
+
+-   E-cigarettes
+
+-   Nicotine pouches
+
+-   Nicotine patches
+
+<p>&nbsp;</p>
+
+The study participants can choose one of the products and receive the product free of charge for 6 months to quit tobacco smoking.
+
+<p>&nbsp;</p>
+
+The RETUNE study will be conducted at the following hospitals:
+
+-   University Hospital Basel (planned)
+
+-   University Hospital Bern (planned)
+
+-   University Hospital Zurich (planned)
+
+-   Cantonal Hospital St. Gallen (planned)
+
+-   University Hospital Lausanne (planned)
+
+-   University Hospital Geneva (planned)
+
+<p>&nbsp;</p>
+
+This study is led by researcher from the University of Basel.
+
+
+
+
+
+<div style="background-color: #f0f0f0; padding: 1rem; text-align: center; margin-top: 4rem;">
+  <p>
+    <a href="https://www.shcs.ch" target="_blank">
+      <img src="images/shcs_logo Kopie.jpg" alt="Logo 1" style="height:120px; margin: 0 1rem;" />
+    </a>
+    <a href="https://www.tpf.admin.ch/tpf/de/home/fonds/tabakpraeventionsfonds.html" target="_blank">
+      <img src="images/logoBAG.png" alt="Logo 2" style="height:120px; margin: 0 1rem;" />
+    </a>
+    <a href="https://www.snf.ch/en/RDtCf0PZrKDKwsI6/funding/careers/md-phd-programme" target="_blank">
+      <img src="images/SNSF.png" alt="Logo 3" style="height:120px; margin: 0 1rem;" />
+    </a>
+  </p>
+</div>

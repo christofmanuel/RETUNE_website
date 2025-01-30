@@ -52,7 +52,9 @@ website:
         href: mailto:christof.schoenenberger@usb.ch
       - icon: folder
         text: Registry
-        href: https://clinicaltrials.gov/
+        href: https://clinicaltrials.gov/study/NCT06789692?cond=NCT06789692&rank=1
+      - icon: github
+        href: https://github.com/christofmanuel/RETUNE_website
   page-footer: © 2025  &middot; Made with [![](https://www.r-project.org/logo/Rlogo.png){fig-alt="R" width=25px}](https://www.r-project.org) and 
       [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
   search:
