@@ -1,8 +1,9 @@
 ---
-title: "Prof. Matthias Cavassini, MD"
+title: "Matthias Cavassini"
+subtitle: "Professor"
 role: "Site Investigator"
-people_group: "any6"
-email: ""
+people_group: "any"
+email: "matthias.cavassini@chuv.ch"
 page-layout: full
 image: MatthiasCavassini.jpeg
 about: 
@@ -21,4 +22,5 @@ about:
 
 <div style="text-align: center;">
   <p style="font-size: 18px; font-weight: bold;">Site Investigator</p>
+  <p style="font-size: ">University Hospital Lausanne</p>
 </div>

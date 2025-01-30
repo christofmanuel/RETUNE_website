@@ -1,0 +1,21 @@
+---
+title: "Samuel Aggeler"
+subtitle: "Bachelor of Science"
+role: "Data Manager"
+people_group: "any"
+email: "samuel.aggeler@usz.ch"
+page-layout: full
+image: Katharina.jpg 
+about: 
+  id: about
+  template: jolla
+  image-shape: round
+  image: Katharina.jpg
+---
+
+<div style="text-align: center;">
+  <p style="font-size: 18px; font-weight: bold;">Data Manager</p>
+  <p style="font-size: 18px;">SHCS Data Center Zurich</p>
+</div>
+
+

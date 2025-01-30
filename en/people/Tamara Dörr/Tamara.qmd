@@ -1,7 +1,8 @@
 ---
-title: "Tamara Dörr, MD"
+title: "Tamara Dörr"
+subtitle: "MD"
 role: "Study Physician"
-people_group: "any4"
+people_group: "any"
 email: ""
 page-layout: full
 image: Tamara.png
@@ -18,4 +19,6 @@ about:
 
 <div style="text-align: center;">
   <p style="font-size: 18px; font-weight: bold;">Study Physician</p>
+  <p style="font-size: 18px; ">Cantonal Hospital St. Gallen</p>
 </div>
+
