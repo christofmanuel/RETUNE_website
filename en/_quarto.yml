@@ -25,21 +25,7 @@ website:
       - text: News
         href: news.qmd
       - text: "Team"
-        menu: 
-          - text: Core Team
-            href: Principal.qmd
-          - text: Center Basel
-            href: Basel.qmd
-          - text: Center Bern
-            href: Bern.qmd
-          - text: Center Zürich
-            href: Zurich.qmd
-          - text: Center St. Gallen
-            href: StGallen.qmd
-          - text: Center Geneva
-            href: Genf.qmd
-          - text: Center Lausanne
-            href: Lausanne.qmd
+        href: Principal.qmd
     right: 
       - text: "🌍 Language"
         menu:

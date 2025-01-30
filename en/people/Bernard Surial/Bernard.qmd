@@ -1,7 +1,8 @@
 ---
-title: "Bernard Surial, MD"
+title: "Bernard Surial"
+subtitle: "MD"
 role: "Study Physician" 
-people_group: "any1"
+people_group: "any"
 email: "bernard.surial@insel.ch"
 page-layout: full
 image: Bernard.jpeg
@@ -18,6 +19,7 @@ about:
 
 <div style="text-align: center;">
   <p style="font-size: 18px; font-weight: bold;">Study physician</p>
+  <p style="font-size: 18px; ">University Hospital Bern</p>
 </div>
 
 

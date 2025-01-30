@@ -1,15 +1,15 @@
 ---
 title: "Prof. Maja Weisser Rohacek, MD"
 role: "Study Physician"
-people_group: "any2"
+people_group: "any"
 email: "maja.weissnerrohacek@usb.ch"
 page-layout: full
-image: Maja.webp
+image: maja.jpeg
 about: 
   id: about
   template: jolla
   image-shape: round
-  image: Maja.webp
+  image: maja.jpeg
   links:
     - icon: link
       text: More Information

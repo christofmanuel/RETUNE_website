@@ -1,5 +1,6 @@
 ---
-title: "Benjamin Speich, PhD"
+title: "Benjamin Speich"
+subtitle: "PhD"
 role: "Scientific Advisor"
 people_group: "any"
 email: "benjamin.speich@usb.ch"
@@ -18,4 +19,5 @@ about:
 
 <div style="text-align: center;">
   <p style="font-size: 18px; font-weight: bold;">Scientific Advisor</p>
+  <p style="font-size: 18px;">Division of Clinical Epidemiology Basel</p>
 </div>

@@ -1,7 +1,7 @@
 ---
 title: "Kerstin Asal"
 role: "Data Manager"
-people_group: "any2"
+people_group: "any"
 page-layout: full
 image: kerstin.jpg
 about: 
@@ -17,4 +17,5 @@ about:
 
 <div style="text-align: center;">
   <p style="font-size: 18px; font-weight: bold;">Data Manager</p>
+  <p style="font-size: 18px;">University Hospital Basel</p>
 </div>

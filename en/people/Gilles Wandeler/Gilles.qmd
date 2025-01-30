@@ -1,7 +1,8 @@
 ---
-title: "Prof. Gilles Wandeler, MD PhD"
+title: "Gilles Wandeler"
+subtitle: "Professor"
 role: "Site Investigator"
-people_group: "any1"
+people_group: "any"
 email: "gilles.wandeler@insel.ch"
 page-layout: full
 image: Gilles.webp
@@ -21,5 +22,6 @@ about:
 
 <div style="text-align: center;">
   <p style="font-size: 18px; font-weight: bold;">Site Investigator</p>
+  <p style="font-size: 18px; ">University Hospital Bern</p>
 </div>
 
