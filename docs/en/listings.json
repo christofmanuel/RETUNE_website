@@ -1,25 +1,5 @@
 [
   {
-    "listing": "/StGallen.html",
-    "items": [
-      "/people/Julia Notter/Julia.html"
-    ]
-  },
-  {
-    "listing": "/Lausanne.html",
-    "items": []
-  },
-  {
-    "listing": "/Bern.html",
-    "items": []
-  },
-  {
-    "listing": "/Basel.html",
-    "items": [
-      "/people/Marcel Stöckle/Marcel.html"
-    ]
-  },
-  {
     "listing": "/Principal.html",
     "items": [
       "/people/Alain Amstutz/Alain.html",
@@ -52,13 +32,5 @@
       "/people/Sandra Chaudron/Sandra.html",
       "/people/Tamara Dörr/Tamara.html"
     ]
-  },
-  {
-    "listing": "/Genf.html",
-    "items": []
-  },
-  {
-    "listing": "/Zurich.html",
-    "items": []
   }
 ]
