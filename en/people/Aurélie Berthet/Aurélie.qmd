@@ -1,5 +1,5 @@
 ---
-title: "Aurélie Berthet"
+title: "Aurelie Berthet"
 subtitle: "PhD"
 role: "Scientific Advisor"
 people_group: "any"
