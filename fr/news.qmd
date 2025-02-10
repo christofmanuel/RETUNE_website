@@ -4,7 +4,7 @@ format: html
 ---
 
 <div class="news-item">
-  <h2>01.02.2025</h2>
+  <h2>10.02.2025</h2>
   <img src="images/logo2.png" alt="Retune" style="width:100%; max-width:600px;">
   <p>La mise en ligne de ce site.</p>
 </div>

@@ -5,7 +5,7 @@ role: "Co-Principal Investigator"
 people_group: "any"
 email: "alain.amstutz@usb.ch"
 page-layout: full
-image: Alain.jpeg
+image: alain.jpg
 about: 
   id: about
   template: jolla
