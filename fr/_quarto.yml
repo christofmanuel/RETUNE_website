@@ -31,7 +31,7 @@ website:
         menu:
           - text: "English"
             href: ../en/index.html
-          - text: "Français"
+          - text: "Deutsch"
             href: ../de/index.html
       - icon: envelope
         text: Email
