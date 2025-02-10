@@ -1,16 +1,16 @@
 ---
-title: "Aurelie Berthet"
+title: "Aurélie Berthet"
 subtitle: "PhD"
 role: "Scientific Advisor"
 people_group: "any"
 email: "Aurelie.Berthet@unil.ch"
 page-layout: full
-image: Aurélie.jpeg
+image: Aurelie.jpeg
 about: 
   id: about
   template: jolla
   image-shape: round
-  image: Aurélie.jpeg
+  image: Aurelie.jpeg
   links:
     - icon: link
       text: More Information
