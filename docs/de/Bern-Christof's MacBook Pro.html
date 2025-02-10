@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Projektpartner</title>
+<title>Meet the Team!</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -65,11 +67,69 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-any1 .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      
+      searchColumns: ["listing-project","listing-website","listing-html","listing-style","listing-editor","listing-language","listing-format","listing-title","listing-role","listing-people_group","listing-email","listing-page-layout","listing-image","listing-about","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-any1'] = new List('listing-any1', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -114,7 +174,7 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="Funding.html" aria-current="page"> 
+    <a class="nav-link" href="Funding.html"> 
 <span class="menu-text">Partners</span></a>
   </li>  
   <li class="nav-item">
@@ -196,21 +256,22 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Projektpartner</h1>
+<h1 class="title">Meet the Team!</h1>
+<p class="subtitle lead">Center Bern</p>
 </div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -222,34 +283,97 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="schweizerische-hiv-kohortenstudie" class="level1">
-<h1>Schweizerische HIV Kohortenstudie</h1>
-<p>Die RETUNE-Studie wird im Rahmen der Schweizerischen HIV-Kohortenstudie durchgeführt. Die Schweizerische HIV-Kohortenstudie ist ein landesweites, langjähriges Projekt, das die Infrastruktur und den Rahmen für die RETUNE-Studie bietet.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="http://www.shcs.ch"><img src="images/shcs_logo Kopie.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="426"></a></p>
-</figure>
-</div>
-</section>
-<section id="finanzierung" class="level1">
-<h1>Finanzierung</h1>
-<p>RETUNE ist eine vom Universitätsspital Basel durchgeführte klinische Studie. RETUNE wird vom <strong>Schweizerischen Tabakkontrollfonds</strong> (Bundesamt für Gesundheit), von der <strong>Novartis Stiftung für medizinisch-biologische Forschung</strong> und vom <strong>Schweizerischen Nationalfonds</strong> finanziert.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://www.tpf.admin.ch/tpf/de/home.html"><img src="images/logoBAG.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></a></p>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://www.novartisfoundation.org"><img src="images/Novartis.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="866"></a></p>
-</figure>
-</div>
-<p><a href="https://www.snf.ch/en"><img src="images/SNSF.png" class="img-fluid"></a></p>
 
 
-</section>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-custom" id="listing-any1">
+
+<div class="quarto-listing quarto-listing-container-grid">
+  <div class="list grid quarto-listing-cols-4"> 
+
+    
+    <div class="g-col-1 listing-box">
+      <a href="people/Bernard%20Surial/Bernard.html" role="button" class="quarto-grid-link">
+        <div class="quarto-grid-item card h-100 card-left">
+          <p class="card-img-top">
+<img alt="Bernard Surial, MD" src="people/Bernard%20Surial/Bernard.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: auto;">
+          </p>
+          <div class="card-body post-contents">
+            <!-- Name / Title -->
+            <div class="listing-box-title">
+              Bernard Surial, MD
+            </div>
+
+            <!-- Role (custom field from front matter) -->
+            
+            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
+              Study Physician
+            </div>
+            
+
+          </div>  
+        </div>
+      </a>
+    </div>
+    
+    <div class="g-col-1 listing-box">
+      <a href="people/Andri%20Rauch/Andri.html" role="button" class="quarto-grid-link">
+        <div class="quarto-grid-item card h-100 card-left">
+          <p class="card-img-top">
+<img alt="Prof. Andri Rauch, MD" src="people/Andri%20Rauch/Andri.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: auto;">
+          </p>
+          <div class="card-body post-contents">
+            <!-- Name / Title -->
+            <div class="listing-box-title">
+              Prof. Andri Rauch, MD
+            </div>
+
+            <!-- Role (custom field from front matter) -->
+            
+            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
+              Study Physician
+            </div>
+            
+
+          </div>  
+        </div>
+      </a>
+    </div>
+    
+    <div class="g-col-1 listing-box">
+      <a href="people/Gilles%20Wandeler/Gilles.html" role="button" class="quarto-grid-link">
+        <div class="quarto-grid-item card h-100 card-left">
+          <p class="card-img-top">
+<img alt="Prof. Gilles Wandeler, MD PhD" src="people/Gilles%20Wandeler/Gilles.webp" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: auto;">
+          </p>
+          <div class="card-body post-contents">
+            <!-- Name / Title -->
+            <div class="listing-box-title">
+              Prof. Gilles Wandeler, MD PhD
+            </div>
+
+            <!-- Role (custom field from front matter) -->
+            
+            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
+              Site Investigator
+            </div>
+            
+
+          </div>  
+        </div>
+      </a>
+    </div>
+    
+
+  </div>
+</div>
+
+<hr>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
