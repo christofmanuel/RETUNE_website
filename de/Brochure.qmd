@@ -1,36 +1,36 @@
 ---
-title: "Product Brochure"
+title: "Produktbroschüren"
 format: html
 ---
 
-# Product information brochures
+# Produkt-Informationsbroschüren
 
-### E-cigarettes:
+### E-Zigaretten:
 
-English
+Englisch
 
-German
+Deutsch
 
-French
+Französisch
 
-Italian
+Italienisch
 
-### Nicotine pouches:
+### Nikotinbeutel:
 
-English
+Englisch
 
-German
+Deutsch
 
-French
+Französisch
 
-Italian
+Italienisch
 
-### Nicotine patches:
+### Nikotinpflaster:
 
-English
+Englisch
 
-German
+Deutsch
 
-French
+Französisch
 
-Italian
+Italienisch

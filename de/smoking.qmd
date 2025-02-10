@@ -1,32 +1,33 @@
 ---
-title: "Nicotine substitution products" 
+title: "Nikotinersatzprodukte" 
 layout: full
 ---
 
-The RETUNE study investigates the effectiveness of a menu of different nicotine substitution products to quit tobacco smoking. The study participants can choose between the following products:
+Die RETUNE-Studie untersucht die Wirksamkeit einer Auswahl verschiedener Nikotinersatzprodukte bei der Raucherentwöhnung. Die Studienteilnehmer können zwischen den folgenden Produkten wählen:
+
 
 <p>&nbsp;</p>
 
-**E-cigarettes**
+**E-Zigaretten**
 
-Electronic cigarettes (e-cigarettes) are devices that heat up nicotine containing liquids. The nicotine is then inhaled in form of vapor in contrast to smoke like in traditional tobacco cigarettes. Otherwise, e-cigarettes imitate tobacco cigarettes in their use and application of nicotine. Smoking e-cigarettes is not healthy. But using e-cigarettes can help quitting tobacco smoking and are there under investigation in the study.
+Elektronische Zigaretten (E-Zigaretten) sind Geräte, die nikotinhaltige Flüssigkeiten erhitzen. Das Nikotin wird dann in Form von Dampf inhaliert, im Gegensatz zu Rauch wie bei herkömmlichen Tabakzigaretten. Ansonsten imitieren E-Zigaretten Tabakzigaretten in ihrer Verwendung und Anwendung von Nikotin. Das Rauchen von E-Zigaretten ist nicht gesund. Aber die Verwendung von E-Zigaretten kann helfen, mit dem Tabakrauchen aufzuhören und wird in der Studie untersucht.
 <p>&nbsp;</p>
-More information can be found in the [Product Brochure](Brochure.qmd)
+Weitere Informationen finden Sie in der [Produktbroschüre](Brochure.qmd)
 
 ![](images/ecigarette.png){fig-align="center" style="border-radius: 50%; margin-bottom: 20px;"}
 
-**Nicotine Pouches**
+**Nikotinbeutel**
 
-Tobacco-free nicotine pouches are nicotine products for oral use. They consist of a small pouch, which is filled with a nicotine-containing matrix. The nicotine comes either from tobacco plants or is produced synthetically. In contrast to the widespread used "snus" in Scandinavia, nicotine pouches do not contain tobacco. In the application, however, they do not differ, the pouches are clamped between the lip and the palate and provide the nicotine through the oral mucosa. Similarly to e-cigarettes, nicotine pouches are not healthy. They have the potential to support quitting tobacco smoking.
+Tabakfreie Nikotinbeutel sind Nikotinprodukte zum oralen Gebrauch. Sie bestehen aus einem kleinen Beutel, der mit einer nikotinhaltigen Masse gefüllt ist. Das Nikotin stammt entweder aus Tabakpflanzen oder wird synthetisch hergestellt. Im Gegensatz zu dem in Skandinavien weit verbreiteten „Snus“ enthalten Nikotinbeutel keinen Tabak. In der Anwendung unterscheiden sie sich jedoch nicht, die Beutel werden zwischen Lippe und Gaumen geklemmt und geben das Nikotin über die Mundschleimhaut ab. Ähnlich wie E-Zigaretten sind auch Nikotinbeutel nicht gesund. Sie haben aber das Potenzial, die Raucherentwöhnung zu unterstützen.
 <p>&nbsp;</p>
-More information can be found in the [Product Brochure](Brochure.qmd)
+Weitere Informationen finden Sie in der [Produktbroschüre](Brochure.qmd)
 
 ![](images/snooze.png){style="border-radius: 50%; margin-bottom: 20px;" fig-align="center"}
 
-**Nicotine patches**
+**Nikotinpflaster**
 
-Nicotine-containing transdermal patches are a widely used form of nicotine replacement therapy and an established standard of care against withdrawn symptoms. They are easy to use. They are equally effective for smoking cessation. The transdermal nicotine uptake is slow and nicotine patches need about one hour to reach the maximum nicotine concentration. Afterwards, they create a steady state for up to 24 hours. Therefore, nicotine patches do not imitate the feeling of smoking well. This may limit their effectiveness. However, they are healthier than e-cigarettes and nicotine pouches.
+Nikotinhaltige transdermale Pflaster sind eine weit verbreitete Form der Nikotinersatztherapie und ein etablierter Standard bei der Behandlung von Entzugserscheinungen. Sie sind einfach zu verwenden. Sie sind auch bei der Raucherentwöhnung wirksam. Die transdermale Nikotinaufnahme ist langsam, und Nikotinpflaster brauchen etwa eine Stunde, um die maximale Nikotinkonzentration zu erreichen. Danach bilden sie bis zu 24 Stunden lang einen Steady-State. Daher ahmen Nikotinpflaster das Gefühl des Rauchens nicht gut nach. Dies kann ihre Wirksamkeit einschränken. Sie sind jedoch gesünder als E-Zigaretten und Nikotinbeutel.
 <p>&nbsp;</p>
-More information can be found in the [Product Brochure](Brochure.qmd)
+Weitere Informationen finden Sie in der [Produktbroschüre](Brochure.qmd)
 
 ![](images/patch.jpg){style="border-radius: 50%; margin-bottom: 20px;" fig-align="center"}

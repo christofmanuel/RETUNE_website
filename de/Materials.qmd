@@ -1,23 +1,23 @@
 ---
-title: "Consent Forms"
+title: "Einverständniserklärungen"
 ---
 
-# Informed consent forms
+# Formulare für die informierte Zustimmung
 
 ## Basel
 
-##### English:
+##### Englisch:
 
 [Download the ICF (PDF)](files/IC_RETUNE_EN_V1.1_USB_clean.pdf){target="_blank"}
 
-##### German:
+##### Deutsch:
 
 [Download the ICF (PDF)](files/IC_RETUNE_DE_V1.1_USB_clean.pdf){target="_blank"}
 
-##### French:
+##### Französisch:
 
 [Download the ICF (PDF)](files/IC_RETUNE_FR_V1.1_USB_clean.pdf){target="_blank"}
 
-##### Italian:
+##### Italienisch:
 
 [Download the ICF (PDF)](files/IC_RETUNE_IT_V1.1_USB_clean.pdf){target="_blank"}

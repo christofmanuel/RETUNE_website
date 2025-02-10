@@ -8,7 +8,7 @@ website:
     pinned: false
     logo: /images/logo.png
     left:
-      - text: Smoking substitutions
+      - text: Nikotinersatzprodukte
         href: smoking.qmd
       - text: Recruitment
         href: Recruitment.qmd

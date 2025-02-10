@@ -12,58 +12,57 @@ about:
     - icon: folder
       text: Registry
       href: https://clinicaltrials.gov/study/NCT06789692?cond=NCT06789692&rank=1
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-**RETUNE is a pragmatic randomized trial within the Swiss HIV Cohort Study. The goal of this study is to test different nicotine substitution products to stop tobacco smoking.**
+**RETUNE ist eine pragmatische, randomisierte Studie im Rahmen der Schweizerischen HIV-Kohortenstudie. Das Ziel dieser Studie ist es, verschiedene Nikotinersatzprodukte zu testen, um mit dem Tabakrauchen aufzuhören.**
 
-Tobacco smoking is a major health burden in people living with HIV. Tobacco smoking is major risk factor for the development of cardiovascular disease (for example heart attack) and cancer (for example lung cancer).
+Tabakrauchen ist eine große gesundheitliche Belastung für Menschen, die mit HIV leben. Tabakrauchen ist ein wichtiger Risikofaktor für die Entwicklung von Herz-Kreislauf-Erkrankungen (z. B. Herzinfarkt) und Krebs (z. B. Lungenkrebs).
 
-RETUNE will test a menu of different nicotine substitution products:
+RETUNE wird eine Reihe von verschiedenen Nikotinersatzprodukten testen:
 
--   E-cigarettes
+- E-Zigaretten
 
--   Nicotine pouches
+- Nikotinbeutel
 
--   Nicotine patches
-
-<p>&nbsp;</p>
-
-The study participants can choose one of the products and receive the product free of charge for 6 months to quit tobacco smoking.
-
-<p>&nbsp;</p>
-
-The RETUNE study will be conducted at the following hospitals:
-
--   University Hospital Basel (planned)
-
--   University Hospital Bern (planned)
-
--   University Hospital Zurich (planned)
-
--   Cantonal Hospital St. Gallen (planned)
-
--   University Hospital Lausanne (planned)
-
--   University Hospital Geneva (planned)
-
-<p>&nbsp;</p>
-
-This study is led by researcher from the University of Basel.
+- Nikotinpflaster
 
 
+<p> </p>
+
+Die Studienteilnehmer können sich für eines der Produkte entscheiden und erhalten das Produkt 6 Monate lang kostenlos, um mit dem Rauchen aufzuhören.
+
+<p> </p>
+
+Die RETUNE-Studie wird in den folgenden Spitälern durchgeführt:
+
+Universitätsspital Basel (geplant)
+
+Universitätsspital Bern (geplant)
+
+Universitätsspital Zürich (geplant)
+
+Kantonsspital St. Gallen (geplant)
+
+Universitätsspital Lausanne (geplant)
+
+Universitätsspital Genf (geplant)
 
 
+<p> </p>
 
-<div style="background-color: #f0f0f0; padding: 1rem; text-align: center; margin-top: 4rem;">
-  <p>
-    <a href="https://www.shcs.ch" target="_blank">
-      <img src="images/shcs_logo Kopie.jpg" alt="Logo 1" style="height:120px; margin: 0 1rem;" />
-    </a>
-    <a href="https://www.tpf.admin.ch/tpf/de/home/fonds/tabakpraeventionsfonds.html" target="_blank">
-      <img src="images/logoBAG.png" alt="Logo 2" style="height:120px; margin: 0 1rem;" />
-    </a>
-    <a href="https://www.snf.ch/en/RDtCf0PZrKDKwsI6/funding/careers/md-phd-programme" target="_blank">
-      <img src="images/SNSF.png" alt="Logo 3" style="height:120px; margin: 0 1rem;" />
-    </a>
-  </p>
-</div>
+Diese Studie wird von Forschern der Universität Basel geleitet.
+
+::: {style="background-color: #f0f0f0; padding: 1rem; text-align: center; margin-top: 4rem;"}
+<p><a href="https://www.shcs.ch" target="_blank">
+<img src="images/shcs_logo Kopie.jpg" alt="Logo 1" style="height:120px; margin: 0 1rem;"/>
+</a>
+<a href="https://www.tpf.admin.ch/tpf/de/home/fonds/tabakpraeventionsfonds.html" target="_blank">
+<img src="images/logoBAG.png" alt="Logo 2" style="height:120px; margin: 0 1rem;"/>
+</a>
+<a href="https://www.snf.ch/en/RDtCf0PZrKDKwsI6/funding/careers/md-phd-programme" target="_blank">
+<img src="images/SNSF.png" alt="Logo 3" style="height:120px; margin: 0 1rem;"/>
+</a></p>
+:::

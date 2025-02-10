@@ -2,7 +2,7 @@
 title: "Bernard Surial"
 subtitle: "MD"
 role: "Study Physician" 
-people_group: "any"
+people_group: "any_excluded"
 email: "bernard.surial@insel.ch"
 page-layout: full
 image: Bernard.jpeg

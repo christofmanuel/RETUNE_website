@@ -1,32 +1,33 @@
 ---
-title: "Nicotine substitution products" 
+title: "Produits de substitution de la nicotine" 
 layout: full
 ---
 
-The RETUNE study investigates the effectiveness of a menu of different nicotine substitution products to quit tobacco smoking. The study participants can choose between the following products:
+L'étude RETUNE examine l'efficacité d'une sélection de différents produits de substitution à la nicotine pour arrêter de fumer. Les participants à l'étude peuvent choisir entre les produits suivants:
 
 <p>&nbsp;</p>
 
 **E-cigarettes**
 
-Electronic cigarettes (e-cigarettes) are devices that heat up nicotine containing liquids. The nicotine is then inhaled in form of vapor in contrast to smoke like in traditional tobacco cigarettes. Otherwise, e-cigarettes imitate tobacco cigarettes in their use and application of nicotine. Smoking e-cigarettes is not healthy. But using e-cigarettes can help quitting tobacco smoking and are there under investigation in the study.
+Les cigarettes électroniques (e-cigarettes) sont des dispositifs qui chauffent des liquides contenant de la nicotine. La nicotine est ensuite inhalée sous forme de vapeur, contrairement à la fumée des cigarettes de tabac traditionnelles. Autrement dit, les e-cigarettes imitent les cigarettes de tabac dans leur utilisation et leur application de la nicotine. Fumer des e-cigarettes n'est pas bon pour la santé. Mais l'utilisation d'e-cigarettes peut aider à arrêter de fumer et fait donc l'objet d'un examen dans l'étude.
 <p>&nbsp;</p>
-More information can be found in the [Product Brochure](Brochure.qmd)
+Pour plus d'informations, voir la [brochure du produit](Brochure.qmd)
 
 ![](images/ecigarette.png){fig-align="center" style="border-radius: 50%; margin-bottom: 20px;"}
 
-**Nicotine Pouches**
+**Sachets de nicotine**
 
-Tobacco-free nicotine pouches are nicotine products for oral use. They consist of a small pouch, which is filled with a nicotine-containing matrix. The nicotine comes either from tobacco plants or is produced synthetically. In contrast to the widespread used "snus" in Scandinavia, nicotine pouches do not contain tobacco. In the application, however, they do not differ, the pouches are clamped between the lip and the palate and provide the nicotine through the oral mucosa. Similarly to e-cigarettes, nicotine pouches are not healthy. They have the potential to support quitting tobacco smoking.
+Les sachets de nicotine sans tabac sont des produits à base de nicotine à usage oral. Ils consistent en une petite poche remplie d'une matrice contenant de la nicotine. La nicotine provient des plants de tabac ou est produite synthétiquement. Contrairement au « snus » très répandu en Scandinavie, les sachets de nicotine ne contiennent pas de tabac. Les sachets sont placés entre la lèvre et le palais et fournissent de la nicotine à travers la muqueuse buccale. Comme les e-cigarettes, les sachets de nicotine ne sont pas bons pour la santé. Ils ont le potentiel d'aider à arrêter de fumer.
 <p>&nbsp;</p>
-More information can be found in the [Product Brochure](Brochure.qmd)
+Pour plus d'informations, voir la [brochure du produit](Brochure.qmd)
 
 ![](images/snooze.png){style="border-radius: 50%; margin-bottom: 20px;" fig-align="center"}
 
-**Nicotine patches**
+**Patchs de nicotine**
 
-Nicotine-containing transdermal patches are a widely used form of nicotine replacement therapy and an established standard of care against withdrawn symptoms. They are easy to use. They are equally effective for smoking cessation. The transdermal nicotine uptake is slow and nicotine patches need about one hour to reach the maximum nicotine concentration. Afterwards, they create a steady state for up to 24 hours. Therefore, nicotine patches do not imitate the feeling of smoking well. This may limit their effectiveness. However, they are healthier than e-cigarettes and nicotine pouches.
+Les patchs transdermiques contenant de la nicotine sont une forme de thérapie de remplacement de la nicotine souvent utilisée et une norme de soins établie contre les symptômes de sevrage. Ils sont faciles à utiliser. Ils sont tout aussi efficaces pour le sevrage tabagique. L'absorption transdermique de la nicotine est lente et les patchs à la nicotine ont besoin d'environ une heure pour atteindre la concentration maximale de nicotine. Ensuite, ils créent un état d'équilibre pendant 24 heures. Par conséquent, les patchs à la nicotine n'imitent pas bien la sensation de fumer. Cela peut limiter leur efficacité. Toutefois, ils sont plus sains que les e-cigarettes et les sachets de nicotine.
+
 <p>&nbsp;</p>
-More information can be found in the [Product Brochure](Brochure.qmd)
+Pour plus d'informations, voir la [brochure du produit](Brochure.qmd)
 
 ![](images/patch.jpg){style="border-radius: 50%; margin-bottom: 20px;" fig-align="center"}

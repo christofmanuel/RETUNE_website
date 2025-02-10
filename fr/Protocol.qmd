@@ -1,5 +1,5 @@
 ---
-title: "Protocol"
+title: "Protocole"
 ---
 
 # Version 1.1:

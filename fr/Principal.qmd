@@ -1,6 +1,5 @@
 ---
-title: "Meet the Team!"
-subtitle: Core Team
+title: "Rencontrez l'équipe!"
 listing:
   - id: any
     include: 

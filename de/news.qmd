@@ -1,12 +1,12 @@
 ---
-title: "News"
+title: "Neuigkeiten"
 format: html
 ---
 
 <div class="news-item">
   <h2>01.02.2025</h2>
   <img src="images/logo2.png" alt="Retune" style="width:100%; max-width:600px;">
-  <p>The website goes online.</p>
+  <p>Diese Website wird online gestellt.</p>
 </div>
 
 <style>
