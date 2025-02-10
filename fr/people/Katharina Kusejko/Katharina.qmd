@@ -1,5 +1,6 @@
 ---
-title: "Katharina Kusejko, PhD"
+title: "Katharina Kusejko"
+subtitle: "Professor"
 role: "Head of SHCS data center"
 people_group: "any"
 email: "katharina.kusejko@usz.ch"
@@ -18,6 +19,7 @@ about:
 
 <div style="text-align: center;">
   <p style="font-size: 18px; font-weight: bold;">Head of Data Center</p>
+  <p style="font-size: 18px;">SHCS Data Center Zurich</p>
 </div>
 
 

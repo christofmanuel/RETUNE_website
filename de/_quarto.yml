@@ -10,36 +10,22 @@ website:
     left:
       - text: Nikotinersatzprodukte
         href: smoking.qmd
-      - text: Recruitment
+      - text: Rekrutierung
         href: Recruitment.qmd
-      - text: Materials
+      - text: Material
         menu: 
-          - text: Consent forms
+          - text: Einverständniserklärungen 
             href: Materials.qmd
-          - text: Protocol
+          - text: Studienprotokoll
             href: Protocol.qmd
-          - text: Product Brochure
+          - text: Produkte Informationsbroschüren
             href: Brochure.qmd
-      - text: Partners
+      - text: Partner
         href: Funding.qmd
       - text: News
         href: news.qmd
       - text: "Team"
-        menu: 
-          - text: Core Team
-            href: Principal.qmd
-          - text: Center Basel
-            href: Basel.qmd
-          - text: Center Bern
-            href: Bern.qmd
-          - text: Center Zürich
-            href: Zurich.qmd
-          - text: Center St. Gallen
-            href: StGallen.qmd
-          - text: Center Geneva
-            href: Genf.qmd
-          - text: Center Lausanne
-            href: Lausanne.qmd
+        href: Principal.qmd
     right: 
       - text: "🌍 Sprache"
         menu:

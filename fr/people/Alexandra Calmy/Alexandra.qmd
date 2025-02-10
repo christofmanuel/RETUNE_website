@@ -1,7 +1,8 @@
 ---
-title: "Prof. Alexandra Calmy, MD PhD"
-role: "Site Investigator"
-people_group: "any5"
+title: "Alexandra Calmy"
+subtitle: "Professor"
+role: "Site Investigator Geneva"
+people_group: "any"
 email: "Alexandra.Calmy@unige.ch"
 page-layout: full
 image: alexandra.jpeg
@@ -20,5 +21,6 @@ about:
 ---
 
 <div style="text-align: center;">
-  <p style="font-size: 18px; font-weight: bold;">Site Investigator</p>
+  <p style="font-size: 18px; font-weight: bold;">Site Investigator Geneva</p>
+  <p style="font-size: 18px;">University Hospital Geneva</p>
 </div>

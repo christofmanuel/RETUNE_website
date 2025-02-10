@@ -1,5 +1,6 @@
 ---
-title: "Christof Schönenberger, MD"
+title: "Christof Schönenberger"
+subtitle: "MD"
 role: "Co-Principal Investigator"
 people_group: "any"
 email: "christofmanuel.schoenenberger@usb.ch"
@@ -21,4 +22,5 @@ about:
 ---
 <div style="text-align: center;">
   <p style="font-size: 18px; font-weight: bold;">Co-Principal Investigator</p>
+  <p style="font-size: 18px;">Division of Clinical Epidemiology Basel</p>
 </div>

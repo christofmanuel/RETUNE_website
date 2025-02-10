@@ -8,38 +8,24 @@ website:
     pinned: false
     logo: /images/logo.png
     left:
-      - text: Smoking substitutions
+      - text: Substituts du tabac
         href: smoking.qmd
-      - text: Recruitment
+      - text: Recrutement
         href: Recruitment.qmd
-      - text: Materials
+      - text: Documents
         menu: 
-          - text: Consent forms
+          - text: Formulaires de consentement
             href: Materials.qmd
-          - text: Protocol
+          - text: Protocole
             href: Protocol.qmd
-          - text: Product Brochure
+          - text: Brochure produit
             href: Brochure.qmd
-      - text: Partners
+      - text: Partenaires
         href: Funding.qmd
-      - text: News
+      - text: Actualités
         href: news.qmd
-      - text: "Team"
-        menu: 
-          - text: Core Team
-            href: Principal.qmd
-          - text: Center Basel
-            href: Basel.qmd
-          - text: Center Bern
-            href: Bern.qmd
-          - text: Center Zürich
-            href: Zurich.qmd
-          - text: Center St. Gallen
-            href: StGallen.qmd
-          - text: Center Geneva
-            href: Genf.qmd
-          - text: Center Lausanne
-            href: Lausanne.qmd
+      - text: "Équipe"
+        href: Principal.qmd 
     right: 
       - text: "🌍 Langue"
         menu:

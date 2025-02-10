@@ -1,5 +1,24 @@
 ```{=html}
 
+<%
+  // Define custom role priority
+  const rolePriority = {
+    "Co-Principal Investigator": 1,
+    "Trial Statistician": 2
+  };
+
+  // Sort items: prioritize specific roles first, then sort others alphabetically
+  items.sort((a, b) => {
+    const roleA = rolePriority[a.role] || 3; // Default to 3 if role is not specified
+    const roleB = rolePriority[b.role] || 3;
+
+    if (roleA !== roleB) {
+      return roleA - roleB; // Sort by priority
+    }
+    return a.title.localeCompare(b.title); // Sort alphabetically within same role priority
+  });
+%>
+
 <div class="quarto-listing quarto-listing-container-grid">
   <div class="list grid quarto-listing-cols-4"> 
 
@@ -8,15 +27,15 @@
       <a href="<%- item.path %>" role="button" class="quarto-grid-link">
         <div class="quarto-grid-item card h-100 card-left">
           <p class="card-img-top">
-<img alt="<%= item.title %>"
-     src="<%= item.image %>"
-     class="thumbnail-image card-img listing-box-image"
-     style="width: 100%; height: auto;" />
+            <img alt="<%= item.title %>"
+                 src="<%= item.image %>"
+                 class="thumbnail-image card-img listing-box-image"
+                 style="width: 100%; height: auto;" />
           </p>
           <div class="card-body post-contents">
-            <!-- Name / Title -->
+            <!-- Name / Title in Bold -->
             <div class="listing-box-title">
-              <%= item.title %>
+              <strong><%= item.title %></strong>
             </div>
 
             <!-- Role (custom field from front matter) -->
@@ -34,6 +53,7 @@
 
   </div>
 </div>
+
 
 
 ```

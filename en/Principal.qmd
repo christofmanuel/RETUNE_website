@@ -8,6 +8,6 @@ listing:
       external: true
     template: _ejs/people-box.ejs
     type: grid
-    fields: [title, image]
+    fields: [title,role, image]
 page-layout: full
 ---
