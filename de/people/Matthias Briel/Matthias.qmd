@@ -1,5 +1,6 @@
 ---
-title: "Prof. Matthias Briel, MD PhD"
+title: "Matthias Briel"
+subtitle: "Professor"
 role: "Co-Principal Investigator"
 people_group: "any"
 email: "matthias.briel@usb.ch"
@@ -19,5 +20,6 @@ about:
       href: https://universe.unibas.ch/people/293/94/overview
 ---
 <div style="text-align: center;">
-  <p style="font-size: 18px; font-weight: bold;">Co-principal investigator</p>
+  <p style="font-size: 18px; font-weight: bold;">Co-Principal Investigator</p>
+  <p style="font-size: 18px;">Division of Clinical Epidemiology Basel</p>
 </div>

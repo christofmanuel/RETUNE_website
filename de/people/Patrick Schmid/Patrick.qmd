@@ -1,7 +1,8 @@
 ---
-title: "Patrick Schmid, MD"
+title: "Patrick Schmid"
+subtitle: "MD"
 role: "Site Investigator"
-people_group: "any4"
+people_group: "any"
 email: "patrick.schmid@kssg.ch"
 page-layout: full
 image: patrick.avif
@@ -18,4 +19,5 @@ about:
 
 <div style="text-align: center;">
   <p style="font-size: 18px; font-weight: bold;">Site Investigator</p>
+  <p style="font-size: 18px;">Cantonal Hospital St. Gallen</p>
 </div>

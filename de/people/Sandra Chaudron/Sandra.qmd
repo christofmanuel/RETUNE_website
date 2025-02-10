@@ -1,5 +1,6 @@
 ---
-title: "Sandra Chaudron, PhD"
+title: "Sandra Chaudron"
+subtitle: "PhD"
 role: "Deputy head of SHCS data center"
 people_group: "any"
 email: "Sandra.Chaudron@usz.ch"
@@ -14,6 +15,7 @@ about:
 
 <div style="text-align: center;">
   <p style="font-size: 18px; font-weight: bold;">Head of Data Center</p>
+  <p style="font-size: 18px;">SHCS Data Center Zurich</p>
 </div>
 
 

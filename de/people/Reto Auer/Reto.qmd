@@ -1,5 +1,6 @@
 ---
-title: "Prof. Reto Auer, MD"
+title: "Reto Auer"
+subtitle: "Professor"
 role: "Scientific Advisor"
 people_group: "any"
 email: "reto.auer@unibe.ch"
@@ -17,4 +18,5 @@ about:
 ---
 <div style="text-align: center;">
   <p style="font-size: 18px; font-weight: bold;">Scientific Advisor</p>
+  <p style="font-size: 18px; ">University of Bern</p>
 </div>

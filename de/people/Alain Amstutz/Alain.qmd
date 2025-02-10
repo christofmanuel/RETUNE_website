@@ -1,5 +1,6 @@
 ---
-title: "Alain Amstutz, MD PhD"
+title: "Alain Amstutz"
+subtitle: "MD PhD"
 role: "Co-Principal Investigator"
 people_group: "any"
 email: "alain.amstutz@usb.ch"
@@ -9,7 +10,7 @@ about:
   id: about
   template: jolla
   image-shape: round
-  image: Alain.jpeg
+  image: alain.jpg
   links:
     - icon: envelope
       text: Email
@@ -21,4 +22,8 @@ about:
 
 <div style="text-align: center;">
   <p style="font-size: 18px; font-weight: bold;">Co-Principal Investigator</p>
+</div>
+
+<div style="text-align: center;">
+  <p style="font-size: 18px;">Division of Clinical Epidemiology Basel</p>
 </div>

@@ -1,5 +1,6 @@
 ---
-title: "David Jackson-Perry, PhD"
+title: "David Jackson-Perry"
+subtitle: "PhD"
 role: "Member of the Participant Advisory Board"
 people_group: "any"
 page-layout: full
@@ -9,6 +10,10 @@ about:
   template: jolla
   image-shape: round
   image: davidJackson.jpeg
+  links:
+    - icon: link
+      text: More Information
+      href: https://pure.qub.ac.uk/en/persons/david-jackson-perry
 ---
 
 <div style="text-align: center;">

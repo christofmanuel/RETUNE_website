@@ -1,5 +1,6 @@
 ---
-title: Prof. Niklaus Labhardt, MD
+title: "Niklaus Labhardt"
+subtitle: "Professor"
 role: "Scientific Advisor"
 people_group: "any"
 email: "niklaus.labhardt@usb.ch"
@@ -17,4 +18,6 @@ about:
 ---
 <div style="text-align: center;">
   <p style="font-size: 18px; font-weight: bold;">Scientific Advisor</p>
+  <p style="font-size: 18px;">Division of Clinical Epidemiology Basel</p>
+  <p style="font-size: 18px;">University Hospital Basel</p>
 </div>
