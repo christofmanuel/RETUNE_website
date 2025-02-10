@@ -1,7 +1,7 @@
 ---
 title: "Reto Auer"
 subtitle: "Professor"
-role: "Scientific Advisor"
+role: "Wissenschaftlicher Berater"
 people_group: "any"
 email: "reto.auer@unibe.ch"
 page-layout: full
@@ -17,6 +17,6 @@ about:
       href: https://www.biham.unibe.ch/ueber_uns/personen/auer_reto/index_ger.html
 ---
 <div style="text-align: center;">
-  <p style="font-size: 18px; font-weight: bold;">Scientific Advisor</p>
-  <p style="font-size: 18px; ">University of Bern</p>
+  <p style="font-size: 18px; font-weight: bold;">Wissenschaftlicher Berater</p>
+  <p style="font-size: 18px; ">Universität Bern</p>
 </div>

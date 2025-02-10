@@ -2,7 +2,7 @@
 title: "Julia Notter"
 subtitle: "MD"
 role: "Study Physician"
-people_group: "any4"
+people_group: "any"
 email: "julia.notter@h-och.ch"
 page-layout: full
 image: julia.png

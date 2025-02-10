@@ -1,7 +1,7 @@
 ---
 title: "Irene Abela"
 subtitle: "MD PhD"
-role: "Site Investigator"
+role: "Scientific Adivsor"
 people_group: "any"
 email: "irene.abela@usz.ch"
 page-layout: full

@@ -2,7 +2,7 @@
 title: "Julian Steinnmann"
 subtitle: "Bachelor of Science"
 role: "Data Manager"
-people_group: "any"
+people_group: "any2"
 email: "julian.steinmann@uzh.ch"
 page-layout: full
 about: 

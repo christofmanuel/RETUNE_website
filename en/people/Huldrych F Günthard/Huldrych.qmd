@@ -1,7 +1,7 @@
 ---
 title: "Huldrych Günthard"
 subtitle: "Professor"
-role: "Former Head Swiss HIV Cohort Study" 
+role: "Scientific Advisor" 
 people_group: "any"
 email: "huldrych.guenthard@usz.ch"
 page-layout: full

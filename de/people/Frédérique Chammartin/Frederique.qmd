@@ -1,7 +1,7 @@
 ---
 title: "Frédérique Chammartin"
 subtitle: "PhD"
-role: "Trial Statistician"
+role: "Studien Statistikerin"
 people_group: "any"
 email: "frédérique.chammartin@usb.ch"
 page-layout: full
@@ -13,11 +13,11 @@ about:
   image: Frederique.png
   links:
     - icon: link
-      text: More Information
+      text: Weitere Informationen 
       href: https://universe.unibas.ch/people/6927/94/overview
 ---
 
 <div style="text-align: center;">
-  <p style="font-size: 18px; font-weight: bold;">Trial Statistician</p>
-  <p style="font-size: 18px;">Division of Clinical Epidemiology Basel</p>
+  <p style="font-size: 18px; font-weight: bold;">Studien Statistikerin</p>
+  <p style="font-size: 18px;">Klinische Epidemiologie Basel</p>
 </div>

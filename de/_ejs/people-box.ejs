@@ -3,8 +3,8 @@
 <%
   // Define custom role priority
   const rolePriority = {
-    "Co-Principal Investigator": 1,
-    "Trial Statistician": 2
+    "Studienleiter": 1,
+    "Studien Statistikerin": 2
   };
 
   // Sort items: prioritize specific roles first, then sort others alphabetically
@@ -30,7 +30,7 @@
             <img alt="<%= item.title %>"
                  src="<%= item.image %>"
                  class="thumbnail-image card-img listing-box-image"
-                 style="width: 100%; height: auto;" />
+                 style="width: 100%; height: 300px; object-fit: cover;"/>
           </p>
           <div class="card-body post-contents">
             <!-- Name / Title in Bold -->

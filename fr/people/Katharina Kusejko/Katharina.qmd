@@ -1,7 +1,7 @@
 ---
 title: "Katharina Kusejko"
-subtitle: "Professor"
-role: "Head of SHCS data center"
+subtitle: "Professeure"
+role: "Responsable du centre de données de l'étude SHCS"
 people_group: "any"
 email: "katharina.kusejko@usz.ch"
 page-layout: full
@@ -13,13 +13,13 @@ about:
   image: Katharina.jpg
   links:
     - icon: link
-      text: More Information
+      text: Plus d'informations 
       href: https://www.usz.ch/team/katharina-kusejko/
 ---
 
 <div style="text-align: center;">
-  <p style="font-size: 18px; font-weight: bold;">Head of Data Center</p>
-  <p style="font-size: 18px;">SHCS Data Center Zurich</p>
+  <p style="font-size: 18px; font-weight: bold;">Responsable du centre de données de l'étude SHCS</p>
+  <p style="font-size: 18px;">Centre de données SHCS à Zurich</p>
 </div>
 
 

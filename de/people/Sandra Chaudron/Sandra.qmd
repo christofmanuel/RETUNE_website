@@ -1,7 +1,7 @@
 ---
 title: "Sandra Chaudron"
 subtitle: "PhD"
-role: "Deputy head of SHCS data center"
+role: "Stv. Leiterin SHCS Datenzentrum"
 people_group: "any"
 email: "Sandra.Chaudron@usz.ch"
 page-layout: full
@@ -14,8 +14,8 @@ about:
 ---
 
 <div style="text-align: center;">
-  <p style="font-size: 18px; font-weight: bold;">Head of Data Center</p>
-  <p style="font-size: 18px;">SHCS Data Center Zurich</p>
+  <p style="font-size: 18px; font-weight: bold;">Stv. Leiterin Datenzentrum</p>
+  <p style="font-size: 18px;">SHCS Datenzentrum Zürich</p>
 </div>
 
 

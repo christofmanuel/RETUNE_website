@@ -1,6 +1,6 @@
 ---
 title: "David Haerry"
-role: "Member of the Participant Advisory Board"
+role: "Membre du comité consultatif des participants"
 people_group: "any"
 page-layout: full
 image: DavidHaerry.jpeg
@@ -12,7 +12,6 @@ about:
 ---
 
 <div style="text-align: center;">
-  <p style="font-size: 18px; font-weight: bold;">Member of the Participant
-Advisory Board</p>
+  <p style="font-size: 18px; font-weight: bold;">Membre du comité consultatif des participants</p>
 </div>
 
