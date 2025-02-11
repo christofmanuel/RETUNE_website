@@ -57,7 +57,7 @@ The RETUNE study will be conducted at the following hospitals:
 
 <p> </p>
 
-This study is led by researcher from the University of Basel.
+This study is led by researchers from the University of Basel.
 
 ::: {style="background-color: #f0f0f0; padding: 1rem; text-align: center; margin-top: 4rem;"}
 <p><a href="https://www.shcs.ch" target="_blank">
