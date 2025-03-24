@@ -2,7 +2,6 @@
 title: "Einverständniserklärungen"
 ---
 
-# Formulare für die informierte Zustimmung
 
 ## Basel
 
@@ -21,3 +20,41 @@ title: "Einverständniserklärungen"
 ##### Italienisch:
 
 [Download the ICF (PDF)](files/IC_RETUNE_IT_V1.1_USB_clean.pdf){target="_blank"}
+
+
+## Zürich
+
+##### Englisch:
+
+[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.1_USZ_clean.pdf){target="_blank"}
+
+##### Deutsch:
+
+[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.1_USZ_clean.pdf){target="_blank"}
+
+##### Französisch:
+
+[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.1_USZ_clean.pdf){target="_blank"}
+
+##### Italienisch:
+
+[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.1_USZ_clean.pdf){target="_blank"}
+
+
+## St. Gallen
+
+##### Englisch:
+
+[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.1_SG_clean.pdf){target="_blank"}
+
+##### Deutsch:
+
+[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.1_SG_clean.pdf){target="_blank"}
+
+##### Französisch:
+
+[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.1_SG_clean.pdf){target="_blank"}
+
+##### Italienisch:
+
+[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.1_SG_clean.pdf){target="_blank"}

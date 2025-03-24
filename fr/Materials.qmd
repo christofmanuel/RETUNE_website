@@ -1,8 +1,7 @@
 ---
-title: "Formulaire de consentement"
+title: "Formulaire de consentement éclairé"
 ---
 
-# Formulaires de consentement éclairé
 
 ## Basel
 
@@ -21,3 +20,41 @@ title: "Formulaire de consentement"
 ##### Italien:
 
 [Download the ICF (PDF)](files/IC_RETUNE_IT_V1.1_USB_clean.pdf){target="_blank"}
+
+
+## Zurich
+
+##### Anglais:
+
+[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.1_USZ_clean.pdf){target="_blank"}
+
+##### Allemand:
+
+[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.1_USZ_clean.pdf){target="_blank"}
+
+##### Français:
+
+[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.1_USZ_clean.pdf){target="_blank"}
+
+##### Italien:
+
+[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.1_USZ_clean.pdf){target="_blank"}
+
+
+## Saint-Gall
+
+##### Anglais:
+
+[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.1_SG_clean.pdf){target="_blank"}
+
+##### Allemand:
+
+[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.1_SG_clean.pdf){target="_blank"}
+
+##### Français:
+
+[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.1_SG_clean.pdf){target="_blank"}
+
+##### Italien:
+
+[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.1_SG_clean.pdf){target="_blank"}

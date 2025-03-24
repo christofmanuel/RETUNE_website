@@ -1,0 +1,22 @@
+---
+title: "Alissa Hutter"
+subtitle: "Bachelor of Medicine"
+role: "Master Student"
+people_group: "any"
+email: "alissa.hutter@usb.ch"
+page-layout: full
+image: julian.jpg
+about: 
+  id: about
+  template: jolla
+  image-shape: round
+  image: julian.jpg
+
+---
+
+<div style="text-align: center;">
+  <p style="font-size: 18px; font-weight: bold;">Étudiants en master</p>
+  <p style="font-size: 18px;">Division d'épidémiologie clinique Bâle</p>
+</div>
+
+

@@ -2,13 +2,15 @@
 title: "Julian Steinnmann"
 subtitle: "Bachelor of Science"
 role: "Data Manager"
-people_group: "any2"
+people_group: "any"
 email: "julian.steinmann@uzh.ch"
 page-layout: full
+image: julian.jpg
 about: 
   id: about
   template: jolla
   image-shape: round
+  image: julian.jpg
 
 ---
 

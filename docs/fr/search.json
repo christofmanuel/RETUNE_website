@@ -53,7 +53,7 @@
     "href": "people/Julian Steinmann/julian.html",
     "title": "Julian Steinnmann",
     "section": "",
-    "text": "Data Manager\n\n\nSHCS Data Center Zurich\n\n\n\n\n Back to top"
+    "text": "Data Manager\n\n\nCentre de données SHCS à Zurich\n\n\n\n\n Back to top"
   },
   {
     "objectID": "people/Patrick Schmid/Patrick.html",
@@ -163,14 +163,14 @@
   {
     "objectID": "Materials.html",
     "href": "Materials.html",
-    "title": "Formulaire de consentement",
+    "title": "Formulaire de consentement éclairé",
     "section": "",
     "text": "Download the ICF (PDF)\n\n\n\nDownload the ICF (PDF)\n\n\n\nDownload the ICF (PDF)\n\n\n\nDownload the ICF (PDF)"
   },
   {
     "objectID": "Materials.html#basel",
     "href": "Materials.html#basel",
-    "title": "Formulaire de consentement",
+    "title": "Formulaire de consentement éclairé",
     "section": "",
     "text": "Download the ICF (PDF)\n\n\n\nDownload the ICF (PDF)\n\n\n\nDownload the ICF (PDF)\n\n\n\nDownload the ICF (PDF)"
   },
@@ -320,5 +320,26 @@
     "title": "Tamara Dörr",
     "section": "",
     "text": "Médecin de l’étude\n\n\nHôpital cantonal de Saint Gall\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/Alissa Hutter/alissa.html",
+    "href": "people/Alissa Hutter/alissa.html",
+    "title": "Alissa Hutter",
+    "section": "",
+    "text": "Étudiants en master\n\n\nDivision d’épidémiologie clinique Bâle\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Materials.html#zurich",
+    "href": "Materials.html#zurich",
+    "title": "Formulaire de consentement éclairé",
+    "section": "Zurich",
+    "text": "Zurich\n\nAnglais:\nDownload the ICF (PDF)\n\n\nAllemand:\nDownload the ICF (PDF)\n\n\nFrançais:\nDownload the ICF (PDF)\n\n\nItalien:\nDownload the ICF (PDF)"
+  },
+  {
+    "objectID": "Materials.html#saint-gall",
+    "href": "Materials.html#saint-gall",
+    "title": "Formulaire de consentement éclairé",
+    "section": "Saint-Gall",
+    "text": "Saint-Gall\n\nAnglais:\nDownload the ICF (PDF)\n\n\nAllemand:\nDownload the ICF (PDF)\n\n\nFrançais:\nDownload the ICF (PDF)\n\n\nItalien:\nDownload the ICF (PDF)"
   }
 ]
