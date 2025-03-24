@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Rencontrez l’équipe!</title>
+<title>Meet the Team!</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,12 +33,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../en/site_libs/quarto-html/popper.min.js"></script>
+<script src="../en/site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<script src="../en/site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
@@ -78,9 +78,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
-      page: 25,
-    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-project","listing-website","listing-html","listing-style","listing-editor","listing-language","listing-format","listing-title","listing-subtitle","listing-role","listing-people_group","listing-email","listing-page-layout","listing-image","listing-about","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+      
+      searchColumns: ["listing-project","listing-website","listing-html","listing-style","listing-editor","listing-language","listing-format","listing-title","listing-role","listing-people_group","listing-email","listing-page-layout","listing-image","listing-about","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -137,8 +136,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/logo.png" alt="" class="navbar-logo">
+    <a href="index.html" class="navbar-brand navbar-brand-logo">
+    <img src="images/logo.png" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -148,44 +147,75 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./smoking.html"> 
-<span class="menu-text">Substituts du tabac</span></a>
+    <a class="nav-link" href="smoking.html"> 
+<span class="menu-text">Smoking substitutions</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Recruitment.html"> 
-<span class="menu-text">Recrutement</span></a>
+    <a class="nav-link" href="Recruitment.html"> 
+<span class="menu-text">Recruitment</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-documents" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Documents</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-materials" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Materials</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-documents">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-materials">    
         <li>
-    <a class="dropdown-item" href="./Materials.html">
- <span class="dropdown-text">Formulaires de consentement</span></a>
+    <a class="dropdown-item" href="Materials.html">
+ <span class="dropdown-text">Consent forms</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./Protocol.html">
- <span class="dropdown-text">Protocole</span></a>
+    <a class="dropdown-item" href="Protocol.html">
+ <span class="dropdown-text">Protocol</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./Brochure.html">
- <span class="dropdown-text">Brochure produit</span></a>
+    <a class="dropdown-item" href="Brochure.html">
+ <span class="dropdown-text">Product Brochure</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./Funding.html"> 
-<span class="menu-text">Partenaires</span></a>
+    <a class="nav-link" href="Funding.html"> 
+<span class="menu-text">Partners</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./news.html"> 
-<span class="menu-text">Actualités</span></a>
+    <a class="nav-link" href="news.html"> 
+<span class="menu-text">News</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="./Principal.html" aria-current="page"> 
-<span class="menu-text">Équipe</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-team" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Team</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-team">    
+        <li>
+    <a class="dropdown-item" href="Principal.html">
+ <span class="dropdown-text">Core Team</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="Basel.html">
+ <span class="dropdown-text">Center Basel</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="Bern.html">
+ <span class="dropdown-text">Center Bern</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="Zurich.html">
+ <span class="dropdown-text">Center Zürich</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="StGallen.html">
+ <span class="dropdown-text">Center St.&nbsp;Gallen</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="Genf.html">
+ <span class="dropdown-text">Center Geneva</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="Lausanne.html">
+ <span class="dropdown-text">Center Lausanne</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item dropdown ">
@@ -194,12 +224,12 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-langue">    
         <li>
-    <a class="dropdown-item" href="./../en/index.html">
+    <a class="dropdown-item" href="../en/index.html">
  <span class="dropdown-text">English</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./../de/index.html">
- <span class="dropdown-text">Deutsch</span></a>
+    <a class="dropdown-item" href="../de/index.html">
+ <span class="dropdown-text">Français</span></a>
   </li>  
     </ul>
   </li>
@@ -209,14 +239,9 @@ window.Quarto = {
 <span class="menu-text">Email</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://clinicaltrials.gov/study/NCT06789692?cond=NCT06789692&amp;rank=1"> <i class="bi bi-folder" role="img">
+    <a class="nav-link" href="https://clinicaltrials.gov/"> <i class="bi bi-folder" role="img">
 </i> 
 <span class="menu-text">Registry</span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/christofmanuel/RETUNE_website"> <i class="bi bi-github" role="img">
-</i> 
-<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -235,7 +260,8 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Rencontrez l’équipe!</h1>
+<h1 class="title">Meet the Team!</h1>
+<p class="subtitle lead">Core Team</p>
 </div>
 
 
@@ -263,21 +289,21 @@ window.Quarto = {
 
     
     <div class="g-col-1 listing-box">
-      <a href="./people/Alain Amstutz/Alain.html" role="button" class="quarto-grid-link">
+      <a href="people/Alain%20Amstutz/Alain.html" role="button" class="quarto-grid-link">
         <div class="quarto-grid-item card h-100 card-left">
           <p class="card-img-top">
-            <img alt="Alain Amstutz" src="./people/Alain Amstutz/alain.jpg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
+<img alt="Alain Amstutz, MD PhD" src="people/Alain%20Amstutz/Alain.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: auto;">
           </p>
           <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
+            <!-- Name / Title -->
             <div class="listing-box-title">
-              <strong>Alain Amstutz</strong>
+              Alain Amstutz, MD PhD
             </div>
 
             <!-- Role (custom field from front matter) -->
             
             <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Responsable d'étude
+              Co-Principal Investigator
             </div>
             
 
@@ -287,21 +313,21 @@ window.Quarto = {
     </div>
     
     <div class="g-col-1 listing-box">
-      <a href="./people/Christof Schoenenberger/Christof.html" role="button" class="quarto-grid-link">
+      <a href="people/Aurélie%20Berthet/Aurélie.html" role="button" class="quarto-grid-link">
         <div class="quarto-grid-item card h-100 card-left">
           <p class="card-img-top">
-            <img alt="Christof Schönenberger" src="./people/Christof Schoenenberger/Christof.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
+<img alt="Aurélie Berthet, PhD" src="people/Aurélie%20Berthet/Aurélie.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: auto;">
           </p>
           <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
+            <!-- Name / Title -->
             <div class="listing-box-title">
-              <strong>Christof Schönenberger</strong>
+              Aurélie Berthet, PhD
             </div>
 
             <!-- Role (custom field from front matter) -->
             
             <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Responsable d'étude
+              Scientific Advisor
             </div>
             
 
@@ -311,21 +337,21 @@ window.Quarto = {
     </div>
     
     <div class="g-col-1 listing-box">
-      <a href="./people/Matthias Briel/Matthias.html" role="button" class="quarto-grid-link">
+      <a href="people/Benjamin%20Speich/benjamin.html" role="button" class="quarto-grid-link">
         <div class="quarto-grid-item card h-100 card-left">
           <p class="card-img-top">
-            <img alt="Matthias Briel" src="./people/Matthias Briel/Matthias.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
+<img alt="Benjamin Speich, PhD" src="people/Benjamin%20Speich/benjamin.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: auto;">
           </p>
           <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
+            <!-- Name / Title -->
             <div class="listing-box-title">
-              <strong>Matthias Briel</strong>
+              Benjamin Speich, PhD
             </div>
 
             <!-- Role (custom field from front matter) -->
             
             <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Responsable d'étude
+              Scientific Advisor
             </div>
             
 
@@ -335,21 +361,21 @@ window.Quarto = {
     </div>
     
     <div class="g-col-1 listing-box">
-      <a href="./people/Frederique Chammartin/Frederique.html" role="button" class="quarto-grid-link">
+      <a href="people/Christof%20Schoenenberger/Christof.html" role="button" class="quarto-grid-link">
         <div class="quarto-grid-item card h-100 card-left">
           <p class="card-img-top">
-            <img alt="Frédérique Chammartin" src="./people/Frederique Chammartin/Frederique.png" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
+<img alt="Christof Schönenberger, MD" src="people/Christof%20Schoenenberger/Christof.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: auto;">
           </p>
           <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
+            <!-- Name / Title -->
             <div class="listing-box-title">
-              <strong>Frédérique Chammartin</strong>
+              Christof Schönenberger, MD
             </div>
 
             <!-- Role (custom field from front matter) -->
             
             <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Statisticien
+              Co-Principal Investigator
             </div>
             
 
@@ -359,21 +385,21 @@ window.Quarto = {
     </div>
     
     <div class="g-col-1 listing-box">
-      <a href="./people/Alexandra Calmy/Alexandra.html" role="button" class="quarto-grid-link">
+      <a href="people/David%20Haerry/DavidHaerry.html" role="button" class="quarto-grid-link">
         <div class="quarto-grid-item card h-100 card-left">
           <p class="card-img-top">
-            <img alt="Alexandra Calmy" src="./people/Alexandra Calmy/alexandra.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
+<img alt="David Haerry" src="people/David%20Haerry/DavidHaerry.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: auto;">
           </p>
           <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
+            <!-- Name / Title -->
             <div class="listing-box-title">
-              <strong>Alexandra Calmy</strong>
+              David Haerry
             </div>
 
             <!-- Role (custom field from front matter) -->
             
             <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Chef de centre
+              Member of the Participant Advisory Board
             </div>
             
 
@@ -383,21 +409,21 @@ window.Quarto = {
     </div>
     
     <div class="g-col-1 listing-box">
-      <a href="./people/Andri Rauch/Andri.html" role="button" class="quarto-grid-link">
+      <a href="people/David%20Jackson-Perry/davidJackson.html" role="button" class="quarto-grid-link">
         <div class="quarto-grid-item card h-100 card-left">
           <p class="card-img-top">
-            <img alt="Andri Rauch" src="./people/Andri Rauch/Andri.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
+<img alt="David Jackson-Perry, PhD" src="people/David%20Jackson-Perry/davidJackson.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: auto;">
           </p>
           <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
+            <!-- Name / Title -->
             <div class="listing-box-title">
-              <strong>Andri Rauch</strong>
+              David Jackson-Perry, PhD
             </div>
 
             <!-- Role (custom field from front matter) -->
             
             <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Chef de SHCS
+              Member of the Participant Advisory Board
             </div>
             
 
@@ -407,21 +433,21 @@ window.Quarto = {
     </div>
     
     <div class="g-col-1 listing-box">
-      <a href="./people/Aurelie Berthet/Aurelie.html" role="button" class="quarto-grid-link">
+      <a href="people/Ellen%20Cart/Ellen.html" role="button" class="quarto-grid-link">
         <div class="quarto-grid-item card h-100 card-left">
           <p class="card-img-top">
-            <img alt="Aurélie Berthet" src="./people/Aurelie Berthet/Aurelie.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
+<img alt="Ellen Cart" src="people/Ellen%20Cart/ellen.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: auto;">
           </p>
           <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
+            <!-- Name / Title -->
             <div class="listing-box-title">
-              <strong>Aurélie Berthet</strong>
+              Ellen Cart
             </div>
 
             <!-- Role (custom field from front matter) -->
             
             <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Conseillère scientifique
+              Member of the Participant Advisory Board
             </div>
             
 
@@ -431,21 +457,21 @@ window.Quarto = {
     </div>
     
     <div class="g-col-1 listing-box">
-      <a href="./people/Benjamin Speich/benjamin.html" role="button" class="quarto-grid-link">
+      <a href="people/Frédérique%20Chammartin/Frederique.html" role="button" class="quarto-grid-link">
         <div class="quarto-grid-item card h-100 card-left">
           <p class="card-img-top">
-            <img alt="Benjamin Speich" src="./people/Benjamin Speich/benjamin.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
+<img alt="Frédérique Chammartin, PhD" src="people/Frédérique%20Chammartin/Frederique.png" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: auto;">
           </p>
           <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
+            <!-- Name / Title -->
             <div class="listing-box-title">
-              <strong>Benjamin Speich</strong>
+              Frédérique Chammartin, PhD
             </div>
 
             <!-- Role (custom field from front matter) -->
             
             <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Conseiller scientifique
+              Trial Statistican
             </div>
             
 
@@ -455,21 +481,21 @@ window.Quarto = {
     </div>
     
     <div class="g-col-1 listing-box">
-      <a href="./people/David Haerry/DavidHaerry.html" role="button" class="quarto-grid-link">
+      <a href="people/Katharina%20Kusejko/Katharina.html" role="button" class="quarto-grid-link">
         <div class="quarto-grid-item card h-100 card-left">
           <p class="card-img-top">
-            <img alt="David Haerry" src="./people/David Haerry/DavidHaerry.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
+<img alt="Katharina Kusejko, PhD" src="people/Katharina%20Kusejko/Katharina.jpg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: auto;">
           </p>
           <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
+            <!-- Name / Title -->
             <div class="listing-box-title">
-              <strong>David Haerry</strong>
+              Katharina Kusejko, PhD
             </div>
 
             <!-- Role (custom field from front matter) -->
             
             <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Membre du comité consultatif des participants
+              Head of SHCS data center
             </div>
             
 
@@ -479,21 +505,21 @@ window.Quarto = {
     </div>
     
     <div class="g-col-1 listing-box">
-      <a href="./people/David Jackson-Perry/davidJackson.html" role="button" class="quarto-grid-link">
+      <a href="people/Matthias%20Briel/Matthias.html" role="button" class="quarto-grid-link">
         <div class="quarto-grid-item card h-100 card-left">
           <p class="card-img-top">
-            <img alt="David Jackson-Perry" src="./people/David Jackson-Perry/davidJackson.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
+<img alt="Prof. Matthias Briel, MD PhD" src="people/Matthias%20Briel/Matthias.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: auto;">
           </p>
           <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
+            <!-- Name / Title -->
             <div class="listing-box-title">
-              <strong>David Jackson-Perry</strong>
+              Prof. Matthias Briel, MD PhD
             </div>
 
             <!-- Role (custom field from front matter) -->
             
             <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Membre du comité consultatif des participants
+              Co-Principal Investigator
             </div>
             
 
@@ -503,21 +529,21 @@ window.Quarto = {
     </div>
     
     <div class="g-col-1 listing-box">
-      <a href="./people/Dominique Braun/Dominique.html" role="button" class="quarto-grid-link">
+      <a href="people/Niklaus%20Labhardt/Niklaus.html" role="button" class="quarto-grid-link">
         <div class="quarto-grid-item card h-100 card-left">
           <p class="card-img-top">
-            <img alt="Dominique Braun" src="./people/Dominique Braun/dominique.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
+<img alt="Prof. Niklaus Labhardt, MD" src="people/Niklaus%20Labhardt/Niklaus.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: auto;">
           </p>
           <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
+            <!-- Name / Title -->
             <div class="listing-box-title">
-              <strong>Dominique Braun</strong>
+              Prof. Niklaus Labhardt, MD
             </div>
 
             <!-- Role (custom field from front matter) -->
             
             <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Conseiller scientifique
+              Scientific Advisor
             </div>
             
 
@@ -527,21 +553,21 @@ window.Quarto = {
     </div>
     
     <div class="g-col-1 listing-box">
-      <a href="./people/Elias Zehnder/elias.html" role="button" class="quarto-grid-link">
+      <a href="people/Reto%20Auer/Reto.html" role="button" class="quarto-grid-link">
         <div class="quarto-grid-item card h-100 card-left">
           <p class="card-img-top">
-            <img alt="Elias Zehnder" src="./people/Elias Zehnder/elias.jpg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
+<img alt="Prof. Reto Auer, MD" src="people/Reto%20Auer/Reto.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: auto;">
           </p>
           <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
+            <!-- Name / Title -->
             <div class="listing-box-title">
-              <strong>Elias Zehnder</strong>
+              Prof. Reto Auer, MD
             </div>
 
             <!-- Role (custom field from front matter) -->
             
             <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Conseiller scientifique
+              Scientific Advisor
             </div>
             
 
@@ -551,405 +577,21 @@ window.Quarto = {
     </div>
     
     <div class="g-col-1 listing-box">
-      <a href="./people/Ellen Cart/Ellen.html" role="button" class="quarto-grid-link">
+      <a href="people/Sandra%20Chaudron/Sandra.html" role="button" class="quarto-grid-link">
         <div class="quarto-grid-item card h-100 card-left">
           <p class="card-img-top">
-            <img alt="Ellen Cart" src="./people/Ellen Cart/ellen.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
+<img alt="Sandra Chaudron, PhD" src="people/Sandra%20Chaudron/Sandra.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: auto;">
           </p>
           <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
+            <!-- Name / Title -->
             <div class="listing-box-title">
-              <strong>Ellen Cart</strong>
-            </div>
-
-            <!-- Role (custom field from front matter) -->
-            
-            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Membre du comité consultatif des participants
-            </div>
-            
-
-          </div>  
-        </div>
-      </a>
-    </div>
-    
-    <div class="g-col-1 listing-box">
-      <a href="./people/Gilles Wandeler/Gilles.html" role="button" class="quarto-grid-link">
-        <div class="quarto-grid-item card h-100 card-left">
-          <p class="card-img-top">
-            <img alt="Gilles Wandeler" src="./people/Gilles Wandeler/Gilles.webp" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
-          </p>
-          <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
-            <div class="listing-box-title">
-              <strong>Gilles Wandeler</strong>
-            </div>
-
-            <!-- Role (custom field from front matter) -->
-            
-            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Chef de centre
-            </div>
-            
-
-          </div>  
-        </div>
-      </a>
-    </div>
-    
-    <div class="g-col-1 listing-box">
-      <a href="./people/Huldrych F Gunthard/Huldrych.html" role="button" class="quarto-grid-link">
-        <div class="quarto-grid-item card h-100 card-left">
-          <p class="card-img-top">
-            <img alt="Huldrych Günthard" src="./people/Huldrych F Gunthard/Huldrych.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
-          </p>
-          <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
-            <div class="listing-box-title">
-              <strong>Huldrych Günthard</strong>
-            </div>
-
-            <!-- Role (custom field from front matter) -->
-            
-            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Conseiller scientifique
-            </div>
-            
-
-          </div>  
-        </div>
-      </a>
-    </div>
-    
-    <div class="g-col-1 listing-box">
-      <a href="./people/Irene Abela/Irene.html" role="button" class="quarto-grid-link">
-        <div class="quarto-grid-item card h-100 card-left">
-          <p class="card-img-top">
-            <img alt="Irene Abela" src="./people/Irene Abela/irene.jpg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
-          </p>
-          <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
-            <div class="listing-box-title">
-              <strong>Irene Abela</strong>
-            </div>
-
-            <!-- Role (custom field from front matter) -->
-            
-            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Conseillère scientifique
-            </div>
-            
-
-          </div>  
-        </div>
-      </a>
-    </div>
-    
-    <div class="g-col-1 listing-box">
-      <a href="./people/Johannes Nemeth/Johannes.html" role="button" class="quarto-grid-link">
-        <div class="quarto-grid-item card h-100 card-left">
-          <p class="card-img-top">
-            <img alt="Johannes Nemeth" src="./people/Johannes Nemeth/johannes.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
-          </p>
-          <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
-            <div class="listing-box-title">
-              <strong>Johannes Nemeth</strong>
-            </div>
-
-            <!-- Role (custom field from front matter) -->
-            
-            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Chef de centre
-            </div>
-            
-
-          </div>  
-        </div>
-      </a>
-    </div>
-    
-    <div class="g-col-1 listing-box">
-      <a href="./people/Julia Notter/Julia.html" role="button" class="quarto-grid-link">
-        <div class="quarto-grid-item card h-100 card-left">
-          <p class="card-img-top">
-            <img alt="Julia Notter" src="./people/Julia Notter/julia.png" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
-          </p>
-          <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
-            <div class="listing-box-title">
-              <strong>Julia Notter</strong>
-            </div>
-
-            <!-- Role (custom field from front matter) -->
-            
-            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Médecin de l'étude
-            </div>
-            
-
-          </div>  
-        </div>
-      </a>
-    </div>
-    
-    <div class="g-col-1 listing-box">
-      <a href="./people/Katharina Kusejko/Katharina.html" role="button" class="quarto-grid-link">
-        <div class="quarto-grid-item card h-100 card-left">
-          <p class="card-img-top">
-            <img alt="Katharina Kusejko" src="./people/Katharina Kusejko/Katharina.jpg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
-          </p>
-          <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
-            <div class="listing-box-title">
-              <strong>Katharina Kusejko</strong>
-            </div>
-
-            <!-- Role (custom field from front matter) -->
-            
-            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Responsable du centre de données de l'étude SHCS
-            </div>
-            
-
-          </div>  
-        </div>
-      </a>
-    </div>
-    
-    <div class="g-col-1 listing-box">
-      <a href="./people/Kerstin Asal/kerstin.html" role="button" class="quarto-grid-link">
-        <div class="quarto-grid-item card h-100 card-left">
-          <p class="card-img-top">
-            <img alt="Kerstin Asal" src="./people/Kerstin Asal/kerstin.jpg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
-          </p>
-          <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
-            <div class="listing-box-title">
-              <strong>Kerstin Asal</strong>
-            </div>
-
-            <!-- Role (custom field from front matter) -->
-            
-            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Data Manager
-            </div>
-            
-
-          </div>  
-        </div>
-      </a>
-    </div>
-    
-    <div class="g-col-1 listing-box">
-      <a href="./people/Maja Weissner Rohacek/Maja.html" role="button" class="quarto-grid-link">
-        <div class="quarto-grid-item card h-100 card-left">
-          <p class="card-img-top">
-            <img alt="Maja Weisser Rohacek" src="./people/Maja Weissner Rohacek/maja.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
-          </p>
-          <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
-            <div class="listing-box-title">
-              <strong>Maja Weisser Rohacek</strong>
-            </div>
-
-            <!-- Role (custom field from front matter) -->
-            
-            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Médecin de l'étude
-            </div>
-            
-
-          </div>  
-        </div>
-      </a>
-    </div>
-    
-    <div class="g-col-1 listing-box">
-      <a href="./people/Matthias Cavassini/MatthiasCavassini.html" role="button" class="quarto-grid-link">
-        <div class="quarto-grid-item card h-100 card-left">
-          <p class="card-img-top">
-            <img alt="Matthias Cavassini" src="./people/Matthias Cavassini/MatthiasCavassini.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
-          </p>
-          <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
-            <div class="listing-box-title">
-              <strong>Matthias Cavassini</strong>
-            </div>
-
-            <!-- Role (custom field from front matter) -->
-            
-            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Chef de centre
-            </div>
-            
-
-          </div>  
-        </div>
-      </a>
-    </div>
-    
-    <div class="g-col-1 listing-box">
-      <a href="./people/Niklaus Labhardt/Niklaus.html" role="button" class="quarto-grid-link">
-        <div class="quarto-grid-item card h-100 card-left">
-          <p class="card-img-top">
-            <img alt="Niklaus Labhardt" src="./people/Niklaus Labhardt/Niklaus.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
-          </p>
-          <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
-            <div class="listing-box-title">
-              <strong>Niklaus Labhardt</strong>
-            </div>
-
-            <!-- Role (custom field from front matter) -->
-            
-            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Conseiller scientifique
-            </div>
-            
-
-          </div>  
-        </div>
-      </a>
-    </div>
-    
-    <div class="g-col-1 listing-box">
-      <a href="./people/Patrick Schmid/Patrick.html" role="button" class="quarto-grid-link">
-        <div class="quarto-grid-item card h-100 card-left">
-          <p class="card-img-top">
-            <img alt="Patrick Schmid" src="./people/Patrick Schmid/patrick.avif" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
-          </p>
-          <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
-            <div class="listing-box-title">
-              <strong>Patrick Schmid</strong>
-            </div>
-
-            <!-- Role (custom field from front matter) -->
-            
-            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Chef de centre
-            </div>
-            
-
-          </div>  
-        </div>
-      </a>
-    </div>
-    
-    <div class="g-col-1 listing-box">
-      <a href="./people/Rebekka Plattner/rebekka.html" role="button" class="quarto-grid-link">
-        <div class="quarto-grid-item card h-100 card-left">
-          <p class="card-img-top">
-            <img alt="Rebekka Plattner" src="./people/Rebekka Plattner/rebekka.jpg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
-          </p>
-          <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
-            <div class="listing-box-title">
-              <strong>Rebekka Plattner</strong>
-            </div>
-
-            <!-- Role (custom field from front matter) -->
-            
-            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Study nurse
-            </div>
-            
-
-          </div>  
-        </div>
-      </a>
-    </div>
-    
-    <div class="g-col-1 listing-box">
-      <a href="./people/Reto Auer/Reto.html" role="button" class="quarto-grid-link">
-        <div class="quarto-grid-item card h-100 card-left">
-          <p class="card-img-top">
-            <img alt="Reto Auer" src="./people/Reto Auer/Reto.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
-          </p>
-          <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
-            <div class="listing-box-title">
-              <strong>Reto Auer</strong>
-            </div>
-
-            <!-- Role (custom field from front matter) -->
-            
-            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Conseiller scientifique
-            </div>
-            
-
-          </div>  
-        </div>
-      </a>
-    </div>
-    
-    <div class="g-col-1 listing-box">
-      <a href="./people/Samuel Aggeler/samuel.html" role="button" class="quarto-grid-link">
-        <div class="quarto-grid-item card h-100 card-left">
-          <p class="card-img-top">
-            <img alt="Samuel Aggeler" src="./people/Samuel Aggeler/sam.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
-          </p>
-          <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
-            <div class="listing-box-title">
-              <strong>Samuel Aggeler</strong>
-            </div>
-
-            <!-- Role (custom field from front matter) -->
-            
-            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Data Manager
-            </div>
-            
-
-          </div>  
-        </div>
-      </a>
-    </div>
-    
-    <div class="g-col-1 listing-box">
-      <a href="./people/Sandra Chaudron/Sandra.html" role="button" class="quarto-grid-link">
-        <div class="quarto-grid-item card h-100 card-left">
-          <p class="card-img-top">
-            <img alt="Sandra Chaudron" src="./people/Sandra Chaudron/Sandra.jpeg" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
-          </p>
-          <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
-            <div class="listing-box-title">
-              <strong>Sandra Chaudron</strong>
+              Sandra Chaudron, PhD
             </div>
 
             <!-- Role (custom field from front matter) -->
             
             <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
               Deputy head of SHCS data center
-            </div>
-            
-
-          </div>  
-        </div>
-      </a>
-    </div>
-    
-    <div class="g-col-1 listing-box">
-      <a href="./people/Tamara Dorr/Tamara.html" role="button" class="quarto-grid-link">
-        <div class="quarto-grid-item card h-100 card-left">
-          <p class="card-img-top">
-            <img alt="Tamara Dörr" src="./people/Tamara Dorr/Tamara.png" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: 300px; object-fit: cover;">
-          </p>
-          <div class="card-body post-contents">
-            <!-- Name / Title in Bold -->
-            <div class="listing-box-title">
-              <strong>Tamara Dörr</strong>
-            </div>
-
-            <!-- Role (custom field from front matter) -->
-            
-            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
-              Médecin de l'étude
             </div>
             
 
@@ -966,9 +608,6 @@ window.Quarto = {
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-<nav id="any-pagination" class="listing-pagination" aria-label="Page Navigation">
-  <ul class="pagination"></ul>
-</nav>
 </div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
