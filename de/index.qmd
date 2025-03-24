@@ -4,7 +4,7 @@ image: "images/logo2.png"
 about:
   template: marquee
   image-shape: rectangle
-  image-width: 45em
+  image-width: 100%
   links:
     - icon: envelope
       text: Email
