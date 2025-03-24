@@ -1,11 +1,31 @@
 [
   {
+    "listing": "/StGallen.html",
+    "items": []
+  },
+  {
+    "listing": "/Lausanne.html",
+    "items": []
+  },
+  {
+    "listing": "/Bern.html",
+    "items": []
+  },
+  {
+    "listing": "/Basel.html",
+    "items": [
+      "/people/Marcel Stöckle/Marcel.html"
+    ]
+  },
+  {
     "listing": "/Principal.html",
     "items": [
       "/people/Alain Amstutz/Alain.html",
       "/people/Alexandra Calmy/Alexandra.html",
+      "/people/Alissa Hutter/alissa.html",
       "/people/Andri Rauch/Andri.html",
       "/people/Aurelie Berthet/Aurelie.html",
+      "/people/Aurelie Berthet/Aurélie.html",
       "/people/Benjamin Speich/benjamin.html",
       "/people/Christof Schoenenberger/Christof.html",
       "/people/David Haerry/DavidHaerry.html",
@@ -19,6 +39,7 @@
       "/people/Irene Abela/Irene.html",
       "/people/Johannes Nemeth/Johannes.html",
       "/people/Julia Notter/Julia.html",
+      "/people/Julian Steinmann/julian.html",
       "/people/Katharina Kusejko/Katharina.html",
       "/people/Kerstin Asal/kerstin.html",
       "/people/Maja Weissner Rohacek/Maja.html",
@@ -32,5 +53,13 @@
       "/people/Sandra Chaudron/Sandra.html",
       "/people/Tamara Dorr/Tamara.html"
     ]
+  },
+  {
+    "listing": "/Genf.html",
+    "items": []
+  },
+  {
+    "listing": "/Zurich.html",
+    "items": []
   }
 ]
