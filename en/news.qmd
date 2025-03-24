@@ -3,20 +3,82 @@ title: "News"
 format: html
 ---
 
-<div class="news-item">
+<div class="news-wrapper">
+<div class="news-item red1">
+  <h2>20.02.2025</h2>
+  <img src="images/Logo_Universitätsspital_Basel.svg.png" alt="Retune" style="width:100%; max-width:600px;">
+  <p>We started the recruitment of participants at the SHCS center Basel.</p>
+</div>
+
+<div class="news-item red2">
   <h2>10.02.2025</h2>
   <img src="images/logo2.png" alt="Retune" style="width:100%; max-width:600px;">
   <p>The website goes online.</p>
 </div>
 
 <style>
+/* Layout wrapper for grouped hover effect */
+.news-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* Base style for all news items */
 .news-item {
   border: 1px solid #ccc;
   padding: 20px;
-  margin-bottom: 30px;
-  background-color: #496a8c;
   color: white;
+  border-radius: 15px;
+  transition: all 0.3s ease;
 }
+
+
+/* Custom color classes */
+.news-item.red1 {
+  background-color: #E6B0AA;
+}
+.news-item.red2 {
+  background-color: #F5B7B1;
+}
+.news-item.blue1 {
+  background-color: #D7BDE2;
+}
+.news-item.blue2 {
+  background-color: #D2B4DE;
+}
+.news-item.blue3 {
+  background-color: #A9CCE3;
+}
+.news-item.blue4 {
+  background-color: #AED6F1;
+}
+.news-item.green1 {
+  background-color: #A3E4D7;
+}
+.news-item.green2 {
+  background-color: #A2D9CE;
+}
+.news-item.green3 {
+  background-color: #A9DFBF;
+}
+.news-item.green4 {
+  background-color: #ABEBC6;
+}
+.news-item.yellow1 {
+  background-color: #F9E79F;
+}
+.news-item.yellow2 {
+  background-color: #FAD7A0;
+}
+.news-item.yellow3 {
+  background-color: #F5CBA7;
+}
+.news-item.yellow4 {
+  background-color: #EDBB99;
+}
+
+/* Image & heading tweaks */
 .news-item img {
   max-width: 100%;
   height: auto;
@@ -25,4 +87,19 @@ format: html
 .news-item h2 {
   margin-top: 0;
 }
+
+/* 🔥 Hover effect to highlight one, fade others */
+.news-wrapper:hover .news-item {
+  opacity: 0.4;
+  filter: grayscale(100%);
+}
+.news-item:hover {
+  opacity: 1 !important;
+  filter: none !important;
+  transform: scale(1.02);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  z-index: 2;
+  position: relative;
+}
+
 </style>
