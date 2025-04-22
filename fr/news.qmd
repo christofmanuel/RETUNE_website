@@ -6,7 +6,7 @@ format: html
 <div class="news-wrapper">
 <div class="news-item red1">
   <h2>20.02.2025</h2>
-  <img src="images/Logo_Universitätsspital_Basel.svg.png" alt="Retune" style="width:100%; max-width:600px;">
+  <img src="images/LogoUSB.png" alt="Retune" style="width:100%; max-width:600px;">
   <p>Nous avons commencé le recrutement des participants au centre SHCS de Bâle.</p>
 </div>
 
