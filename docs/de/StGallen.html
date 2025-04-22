@@ -23,23 +23,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
+<script src="../fr/site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../fr/site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../en/site_libs/clipboard/clipboard.min.js"></script>
+<script src="../fr/site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../en/site_libs/quarto-search/fuse.min.js"></script>
+<script src="../fr/site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="../en/site_libs/quarto-listing/list.min.js"></script>
+<script src="../en/site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../en/site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../fr/site_libs/quarto-html/anchor.min.js"></script>
+<link href="../fr/site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../fr/site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../en/site_libs/bootstrap/bootstrap-icons-Christof's%20MacBook%20Pro.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -77,9 +77,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-project","listing-website","listing-html","listing-style","listing-editor","listing-language","listing-format","listing-title","listing-role","listing-people_group","listing-email","listing-page-layout","listing-image","listing-about","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -136,8 +136,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/logo.png" alt="" class="navbar-logo">
+    <a href="index.html" class="navbar-brand navbar-brand-logo">
+    <img src="images/logo.png" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -147,44 +147,75 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./smoking.html"> 
-<span class="menu-text">Nikotinersatzprodukte</span></a>
+    <a class="nav-link" href="smoking.html"> 
+<span class="menu-text">Smoking substitutions</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Recruitment.html"> 
-<span class="menu-text">Rekrutierung</span></a>
+    <a class="nav-link" href="Recruitment.html"> 
+<span class="menu-text">Recruitment</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-material" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Material</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-materials" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Materials</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-material">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-materials">    
         <li>
-    <a class="dropdown-item" href="./Materials.html">
- <span class="dropdown-text">Einverständniserklärungen</span></a>
+    <a class="dropdown-item" href="Materials.html">
+ <span class="dropdown-text">Consent forms</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./Protocol.html">
- <span class="dropdown-text">Studienprotokoll</span></a>
+    <a class="dropdown-item" href="Protocol.html">
+ <span class="dropdown-text">Protocol</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./Brochure.html">
- <span class="dropdown-text">Produkte Informationsbroschüren</span></a>
+    <a class="dropdown-item" href="Brochure.html">
+ <span class="dropdown-text">Product Brochure</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./Funding.html"> 
-<span class="menu-text">Partner</span></a>
+    <a class="nav-link" href="Funding.html"> 
+<span class="menu-text">Partners</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./news.html"> 
+    <a class="nav-link" href="news.html"> 
 <span class="menu-text">News</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./Principal.html"> 
-<span class="menu-text">Team</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-team" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Team</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-team">    
+        <li>
+    <a class="dropdown-item" href="Principal.html">
+ <span class="dropdown-text">Core Team</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="Basel.html">
+ <span class="dropdown-text">Center Basel</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="Bern.html">
+ <span class="dropdown-text">Center Bern</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="Zurich.html">
+ <span class="dropdown-text">Center Zürich</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="StGallen.html">
+ <span class="dropdown-text">Center St.&nbsp;Gallen</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="Genf.html">
+ <span class="dropdown-text">Center Geneva</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="Lausanne.html">
+ <span class="dropdown-text">Center Lausanne</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item dropdown ">
@@ -193,11 +224,11 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-sprache">    
         <li>
-    <a class="dropdown-item" href="./../en/index.html">
+    <a class="dropdown-item" href="../en/index.html">
  <span class="dropdown-text">English</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./../fr/index.html">
+    <a class="dropdown-item" href="../fr/index.html">
  <span class="dropdown-text">Français</span></a>
   </li>  
     </ul>
@@ -208,14 +239,9 @@ window.Quarto = {
 <span class="menu-text">Email</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://clinicaltrials.gov/study/NCT06789692?cond=NCT06789692&amp;rank=1"> <i class="bi bi-folder" role="img">
+    <a class="nav-link" href="https://clinicaltrials.gov/"> <i class="bi bi-folder" role="img">
 </i> 
 <span class="menu-text">Registry</span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/christofmanuel/RETUNE_website"> <i class="bi bi-github" role="img">
-</i> 
-<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -261,6 +287,78 @@ window.Quarto = {
 <div class="quarto-listing quarto-listing-container-grid">
   <div class="list grid quarto-listing-cols-4"> 
 
+    
+    <div class="g-col-1 listing-box">
+      <a href="people/Julia%20Notter/Julia.html" role="button" class="quarto-grid-link">
+        <div class="quarto-grid-item card h-100 card-left">
+          <p class="card-img-top">
+<img alt="Julia Notter, MD" src="people/Julia%20Notter/julia.png" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: auto;">
+          </p>
+          <div class="card-body post-contents">
+            <!-- Name / Title -->
+            <div class="listing-box-title">
+              Julia Notter, MD
+            </div>
+
+            <!-- Role (custom field from front matter) -->
+            
+            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
+              Study Physician
+            </div>
+            
+
+          </div>  
+        </div>
+      </a>
+    </div>
+    
+    <div class="g-col-1 listing-box">
+      <a href="people/Patrick%20Schmid/Patrick.html" role="button" class="quarto-grid-link">
+        <div class="quarto-grid-item card h-100 card-left">
+          <p class="card-img-top">
+<img alt="Patrick Schmid, MD" src="people/Patrick%20Schmid/patrick.avif" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: auto;">
+          </p>
+          <div class="card-body post-contents">
+            <!-- Name / Title -->
+            <div class="listing-box-title">
+              Patrick Schmid, MD
+            </div>
+
+            <!-- Role (custom field from front matter) -->
+            
+            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
+              Site Investigator
+            </div>
+            
+
+          </div>  
+        </div>
+      </a>
+    </div>
+    
+    <div class="g-col-1 listing-box">
+      <a href="people/Tamara%20Dörr/Tamara.html" role="button" class="quarto-grid-link">
+        <div class="quarto-grid-item card h-100 card-left">
+          <p class="card-img-top">
+<img alt="Tamara Dörr, MD" src="people/Tamara%20Dörr/Tamara.png" class="thumbnail-image card-img listing-box-image" style="width: 100%; height: auto;">
+          </p>
+          <div class="card-body post-contents">
+            <!-- Name / Title -->
+            <div class="listing-box-title">
+              Tamara Dörr, MD
+            </div>
+
+            <!-- Role (custom field from front matter) -->
+            
+            <div class="listing-box-role" style="font-size: 0.95rem; margin-top: 0.25rem;">
+              Study Physician
+            </div>
+            
+
+          </div>  
+        </div>
+      </a>
+    </div>
     
 
   </div>
