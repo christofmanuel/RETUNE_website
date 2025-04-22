@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/Genf.html",
-    "items": []
-  },
-  {
     "listing": "/Principal.html",
     "items": [
       "/people/Alain Amstutz/Alain.html",
@@ -11,6 +7,7 @@
       "/people/Alissa Hutter/alissa.html",
       "/people/Andri Rauch/Andri.html",
       "/people/Aurelie Berthet/Aurelie.html",
+      "/people/Aurelie Berthet/Aurélie.html",
       "/people/Benjamin Speich/benjamin.html",
       "/people/Christof Schoenenberger/Christof.html",
       "/people/David Haerry/DavidHaerry.html",
@@ -38,27 +35,5 @@
       "/people/Sandra Chaudron/Sandra.html",
       "/people/Tamara Dorr/Tamara.html"
     ]
-  },
-  {
-    "listing": "/Basel.html",
-    "items": [
-      "/people/Marcel Stöckle/Marcel.html"
-    ]
-  },
-  {
-    "listing": "/Bern.html",
-    "items": []
-  },
-  {
-    "listing": "/Lausanne.html",
-    "items": []
-  },
-  {
-    "listing": "/StGallen.html",
-    "items": []
-  },
-  {
-    "listing": "/Zurich.html",
-    "items": []
   }
 ]
