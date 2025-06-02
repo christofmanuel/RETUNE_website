@@ -5,6 +5,13 @@ format: html
 
 <div class="news-wrapper">
 <div class="news-item red1">
+  <h2>14.05.2025</h2>
+  <img src="images/usz_logo2.png" alt="Retune" style="width:100%; max-width:600px;">
+  <p>We started the recruitment of participants at the SHCS center Zurich</p>
+</div>
+
+<div class="news-wrapper">
+<div class="news-item red1">
   <h2>20.02.2025</h2>
   <img src="images/LogoUSB.png" alt="Retune" style="width:100%; max-width:600px;">
   <p>We started the recruitment of participants at the SHCS center Basel.</p>

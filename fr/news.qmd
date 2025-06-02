@@ -3,6 +3,14 @@ title: "Actualités"
 format: html
 ---
 
+
+<div class="news-wrapper">
+<div class="news-item red1">
+  <h2>14.05.2025</h2>
+  <img src="images/usz_logo2.png" alt="Retune" style="width:100%; max-width:600px;">
+  <p>Nous avons commencé le recrutement des participants au centre SHCS de Zurich.</p>
+</div>
+
 <div class="news-wrapper">
 <div class="news-item red1">
   <h2>20.02.2025</h2>
