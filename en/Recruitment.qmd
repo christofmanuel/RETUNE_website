@@ -86,7 +86,13 @@ p_intervention <- plot_ly() %>%
   layout(
     title = "Intervention Group Over Time",
     xaxis = list(title = "Date", type = "date"),
-    yaxis = list(title = "Number of Participants")
+    yaxis = list(title = "Number of Participants"),
+    legend = list(
+      orientation = "h",   # Horizontal legend
+      x = 0.5,             # Center it horizontally
+      y = -0.2,            # Place it below the plot
+      xanchor = "center"
+    )
   )
 
 #This is the code to add a dashed horizontal line for the target uptake 
