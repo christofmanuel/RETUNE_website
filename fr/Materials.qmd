@@ -3,6 +3,61 @@ title: "Formulaire de consentement éclairé"
 ---
 
 
+
+## Genève
+
+##### English:
+
+[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.1_GE_clean.pdf){target="_blank"}
+
+##### German:
+
+[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.1_GE_clean.pdf){target="_blank"}
+
+##### French:
+
+[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.1_GE_clean.pdf){target="_blank"}
+
+##### Italian:
+
+[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.1_GE_clean.pdf){target="_blank"}
+
+## Lausanne
+
+##### English:
+
+[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.1_LS_clean.pdf){target="_blank"}
+
+##### German:
+
+[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.1_LS_clean.pdf){target="_blank"}
+
+##### French:
+
+[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.1_LS_clean.pdf){target="_blank"}
+
+##### Italian:
+
+[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.1_LS_clean.pdf){target="_blank"}
+
+## Berne
+
+##### Anglais:
+
+[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.1_BE_clean.pdf){target="_blank"}
+
+##### Allemand:
+
+[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.1_BE_clean.pdf){target="_blank"}
+
+##### Français:
+
+[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.1_BE_clean.pdf){target="_blank"}
+
+##### Italien:
+
+[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.1_BE_clean.pdf){target="_blank"}
+
 ## Bâle
 
 ##### Anglais:
@@ -40,7 +95,6 @@ title: "Formulaire de consentement éclairé"
 
 [Download the ICF (PDF)](files/IC_RETUNE_IT_V1.1_USZ_clean.pdf){target="_blank"}
 
-
 ## Saint-Gall
 
 ##### Anglais:
@@ -60,20 +114,5 @@ title: "Formulaire de consentement éclairé"
 [Download the ICF (PDF)](files/IC_RETUNE_IT_V1.1_SG_clean.pdf){target="_blank"}
 
 
-## Berne
 
-##### Anglais:
 
-[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.1_BE_clean.pdf){target="_blank"}
-
-##### Allemand:
-
-[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.1_BE_clean.pdf){target="_blank"}
-
-##### Français:
-
-[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.1_BE_clean.pdf){target="_blank"}
-
-##### Italien:
-
-[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.1_BE_clean.pdf){target="_blank"}
