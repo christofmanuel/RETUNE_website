@@ -5,12 +5,12 @@ role: "Master Student"
 people_group: "any"
 email: "alissa.hutter@usb.ch"
 page-layout: full
-image: julian.jpg
+image: alissa.png
 about: 
   id: about
   template: jolla
   image-shape: round
-  image: julian.jpg
+  image: alissa.png
 
 ---
 

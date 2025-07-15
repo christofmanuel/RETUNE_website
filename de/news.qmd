@@ -2,6 +2,19 @@
 title: "Neuigkeiten"
 format: html
 ---
+<div class="news-wrapper">
+<div class="news-item red1">
+  <h2>16.07.2025</h2>
+  <img src="images/hug.png" alt="Retune" style="width:100%; max-width:600px;">
+  <p>Die Rekrutierung von RETUNE Studienteilnehmenden am SHCS Zentrum Genf hat begonnen</p>
+</div>
+
+<div class="news-wrapper">
+<div class="news-item red1">
+  <h2>10.07.2025</h2>
+  <img src="images/insel.svg.png" alt="Retune" style="width:100%; max-width:600px;">
+  <p>Die Rekrutierung von RETUNE Studienteilnehmenden am SHCS Zentrum Bern hat begonnen</p>
+</div>
 
 <div class="news-wrapper">
 <div class="news-item red1">
