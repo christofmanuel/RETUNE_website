@@ -8,7 +8,7 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: "mailto:christof.schoenenberger@usb.ch"  
+      href: "mailto:christofmanuel.schoenenberger@usb.ch"  
     - icon: folder
       text: Registry
       href: https://clinicaltrials.gov/study/NCT06789692?cond=NCT06789692&rank=1

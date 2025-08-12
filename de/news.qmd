@@ -2,6 +2,14 @@
 title: "Neuigkeiten"
 format: html
 ---
+
+<div class="news-wrapper">
+<div class="news-item red1">
+  <h2>12.08.2025</h2>
+  <img src="images/chuv_logo.png" alt="Retune" style="width:100%; max-width:600px;">
+  <p>Die Rekrutierung von RETUNE Studienteilnehmenden am SHCS Zentrum Lausanne hat begonnen</p>
+</div>
+
 <div class="news-wrapper">
 <div class="news-item red1">
   <h2>16.07.2025</h2>
