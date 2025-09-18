@@ -8,7 +8,7 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: "mailto:christofmanuel.schoenenberger@usb.ch"  
+      href: "mailto:c.schoenenberger@stud.unibas.ch"  
     - icon: folder
       text: Registry
       href: https://clinicaltrials.gov/study/NCT06789692?cond=NCT06789692&rank=1
@@ -38,17 +38,19 @@ Die Studienteilnehmer können sich für eines der Produkte entscheiden und erhal
 
 Die RETUNE-Studie wird in den folgenden Spitälern durchgeführt:
 
-Universitätsspital Basel (aktiv)
+- Universitätsspital Basel (aktiv)
 
-Universitätsspital Bern (geplant)
+- Universitätsspital Bern (aktiv)
 
-Universitätsspital Zürich (aktiv)
+- Universitätsspital Zürich (aktiv)
 
-Kantonsspital St. Gallen (aktiv)
+- Kantonsspital St. Gallen (aktiv)
 
-Universitätsspital Lausanne (geplant)
+- Universitätsspital Lausanne (aktiv)
 
-Universitätsspital Genf (geplant)
+- Universitätsspital Genf (aktiv)
+
+- Kantonsspital Aarau (geplant)
 
 
 <p> </p>
