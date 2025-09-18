@@ -355,5 +355,19 @@
     "title": "Laetitia Guiraud",
     "section": "",
     "text": "Assistante de recherche\n\n\nHôpiteaux Universitaires de Genève\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Protocol.html#version-1.1",
+    "href": "Protocol.html#version-1.1",
+    "title": "Protocol",
+    "section": "Version 1.1:",
+    "text": "Version 1.1:\nDownload the Protocol (PDF)"
+  },
+  {
+    "objectID": "Protocol.html#historique-des-modifications-du-protocol",
+    "href": "Protocol.html#historique-des-modifications-du-protocol",
+    "title": "Protocol",
+    "section": "Historique des modifications du protocol:",
+    "text": "Historique des modifications du protocol:\n\n\n\n\n\n\n\n\n\n\n\nProtocol version\nProtocol date\nDescription\nChanges to prior version\nStatus\nApproval date\n\n\n\n\n1.0\n28.11.2024\nInitial protocol submission to the ethics committee (Ethikkommission Nordwest- und Zentral Schweiz) in November 2024.\n\nNot approved\n19.12.2025\n\n\n1.1\n06.01.2025\nAdapted version after comments from the ethics committee. This was the finally approved version before the start of recruitment.\n-Change of eligibility criteria: Following the recommendation of the ethics committee, we changed the eligibility criteria and excluded pregnant women from the trial.\n-Clarification on data collection: We specified when RETUNE uses trial specific data collection and when routine cohort data collection.\n-Clarification on participation in other research projects: RETUNE participants are allowed to participate in other research while RETUNE participation.\n-Specification on the trial discontinuation: Participants can discontinue intervention product use and will remain in the cohort.\n-Addition of monitoring plan: The monitoring procedure is outlined in chapter 9 of the revised protocol.\nApproved\n08.01.2025\n\n\n1.1\n06.01.2025\nAddition of a new center, protocol version remains the same.\n-Addition of a new center: The Cantonal Hospital St. Gallen and the University Hospital Zurich has been added as a participating center.\nApproved\n15.04.2025\n\n\n1.1\n06.01.2025\nAddition of a new center, protocol version remains the same.\n-Addition of a new center: The University Hospital Bern has been added as a participating center.\nApproved\n07.05.2025\n\n\n1.1\n06.01.2025\nAddition of a new center, protocol version remains the same.\n-Addition of a new center: The University Hospital Geneva has been added as a participating center.\nApproved\n09.07.2025\n\n\n1.1\n06.01.2025\nAddition of a new center, protocol version remains the same.\n-Addition of a new center: The University Hospital Lausanne has been added as a participating center.\nApproved\n29.07.2025\n\n\n1.2\n08.08.202\nAdapted version based on accumulated changes over the course of the trial.\n-Addition of a new center: The Cantonal Hospital Aarau has been added as a participating center.\n-Removal of biochemical verification of smoking cessation: The planned biochemical verification of patient-reported smoking abstinence using plasma anabasine as an explanatory endpoint has been removed.\n-Changes to secondary endpoints: We have added measurement of total cholesterol in addition to HDL- and LDL-cholesterol. We have also removed death from the composite cardiovascular endpoint, as mortality will be captured as a serious adverse event.\n-Additional methodological details: We have added information on allocation concealment and blinding.\n-Correction of primary estimand: An error in the definition of the primary estimand has been corrected, and the description improved for clarity.\n-Statistical analysis updates: We have added details on the conduct of subgroup analyses and the handling of missing data.\n-Addition of process evaluation: We have included a paragraph describing the planned process evaluation study to better understand potential mechanisms of the intervention’s effect (or lack thereof).\nSubmitted"
   }
 ]
