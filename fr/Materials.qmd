@@ -8,110 +8,110 @@ title: "Formulaire de consentement éclairé"
 
 ##### English:
 
-[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.1_GE_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.2_GE_clean.pdf){target="_blank"}
 
 ##### German:
 
-[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.1_GE_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.2_GE_clean.pdf){target="_blank"}
 
 ##### French:
 
-[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.1_GE_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.2_GE_clean.pdf){target="_blank"}
 
 ##### Italian:
 
-[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.1_GE_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.2_GE_clean.pdf){target="_blank"}
 
 ## Lausanne
 
 ##### English:
 
-[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.1_LS_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.2_LS_clean.pdf){target="_blank"}
 
 ##### German:
 
-[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.1_LS_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.2_LS_clean.pdf){target="_blank"}
 
 ##### French:
 
-[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.1_LS_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.2_LS_clean.pdf){target="_blank"}
 
 ##### Italian:
 
-[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.1_LS_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.2_LS_clean.pdf){target="_blank"}
 
 ## Berne
 
 ##### Anglais:
 
-[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.1_BE_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.2_BE_clean.pdf){target="_blank"}
 
 ##### Allemand:
 
-[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.1_BE_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.2_BE_clean.pdf){target="_blank"}
 
 ##### Français:
 
-[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.1_BE_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.2_BE_clean.pdf){target="_blank"}
 
 ##### Italien:
 
-[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.1_BE_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.2_BE_clean.pdf){target="_blank"}
 
 ## Bâle
 
 ##### Anglais:
 
-[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.1_USB_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.2_USB_clean.pdf){target="_blank"}
 
 ##### Allemand:
 
-[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.1_USB_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.2_USB_clean.pdf){target="_blank"}
 
 ##### Français:
 
-[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.1_USB_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.2_USB_clean.pdf){target="_blank"}
 
 ##### Italien:
 
-[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.1_USB_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.2_USB_clean.pdf){target="_blank"}
 
 
 ## Zurich
 
 ##### Anglais:
 
-[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.1_USZ_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.2_USZ_clean.pdf){target="_blank"}
 
 ##### Allemand:
 
-[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.1_USZ_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.2_USZ_clean.pdf){target="_blank"}
 
 ##### Français:
 
-[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.1_USZ_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.2_USZ_clean.pdf){target="_blank"}
 
 ##### Italien:
 
-[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.1_USZ_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.2_USZ_clean.pdf){target="_blank"}
 
 ## Saint-Gall
 
 ##### Anglais:
 
-[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.1_SG_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.2_SG_clean.pdf){target="_blank"}
 
 ##### Allemand:
 
-[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.1_SG_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.2_SG_clean.pdf){target="_blank"}
 
 ##### Français:
 
-[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.1_SG_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.2_SG_clean.pdf){target="_blank"}
 
 ##### Italien:
 
-[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.1_SG_clean.pdf){target="_blank"}
+[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.2_SG_clean.pdf){target="_blank"}
 
 
 
