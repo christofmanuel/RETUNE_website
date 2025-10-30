@@ -20,6 +20,8 @@ website:
             href: Protocol.qmd
           - text: Brochure produit
             href: Brochure.qmd
+          - text: Publications scientifiques
+            href: Publications.qmd
       - text: Partenaires
         href: Funding.qmd
       - text: Actualités
