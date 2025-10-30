@@ -1,0 +1,14 @@
+---
+title: "Publications scientifiques"
+format: html
+---
+<p> </p>
+<p> </p>
+
+## "Implementing a randomization consent to enable Trials within Cohorts in the Swiss HIV Cohort Study – A mixed-methods study"
+
+La mise en œuvre du design TwiCs, y compris le déploiement d’un consentement à la randomisation au sein d’une cohorte existante de grande envergure, est réalisable. Le taux d’acceptation parmi les participants était élevé.
+
+<p> </p>
+
+[![](images/zehnder.png){fig-align="center" width="700"}](https://doi.org/10.1016/j.jclinepi.2025.111973)
