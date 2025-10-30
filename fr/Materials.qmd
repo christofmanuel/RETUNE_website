@@ -76,7 +76,6 @@ title: "Formulaire de consentement éclairé"
 
 [Download the ICF (PDF)](files/IC_RETUNE_IT_V1.2_USB_clean.pdf){target="_blank"}
 
-
 ## Zurich
 
 ##### Anglais:
@@ -113,6 +112,22 @@ title: "Formulaire de consentement éclairé"
 
 [Download the ICF (PDF)](files/IC_RETUNE_IT_V1.2_SG_clean.pdf){target="_blank"}
 
+## Aarau
 
+##### Anglais:
+
+[Download the ICF (PDF)](files/IC_RETUNE_EN_V1.2_KSA_clean.pdf){target="_blank"}
+
+##### Allemand:
+
+[Download the ICF (PDF)](files/IC_RETUNE_DE_V1.2_KSA_clean.pdf){target="_blank"}
+
+##### Français:
+
+[Download the ICF (PDF)](files/IC_RETUNE_FR_V1.2_KSA_clean.pdf){target="_blank"}
+
+##### Italien:
+
+[Download the ICF (PDF)](files/IC_RETUNE_IT_V1.2_KSA_clean.pdf){target="_blank"}
 
 
