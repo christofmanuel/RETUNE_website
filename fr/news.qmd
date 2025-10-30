@@ -2,6 +2,13 @@
 title: "Actualités"
 format: html
 ---
+<div class="news-wrapper"> 
+<div class="news-item red1"> 
+  <h2>12.09.2025</h2> <img src="images/zehnder.png" alt="Retune" style="width:100%; max-width:600px;"> 
+  <p>**Nouvelle publication**</p> 
+  <p>La mise en œuvre du design TwiCs, y compris le déploiement d’un consentement à la randomisation au sein d’une cohorte existante de grande envergure, est réalisable. Le taux d’acceptation parmi les participants était élevé.</p> 
+  <p>*Zehnder ER, Schönenberger CM, Hüllstrung J, et al. Implementing a randomization consent to enable Trials within Cohorts in the Swiss HIV Cohort Study - A mixed-methods study. J Clin Epidemiol. Published online September 12, 2025. doi:10.1016/j.jclinepi.2025.111973*</p> 
+  </div>
 
 <div class="news-wrapper">
 <div class="news-item red1">

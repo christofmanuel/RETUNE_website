@@ -7,7 +7,7 @@ format: html
 
 ## "Implementing a randomization consent to enable Trials within Cohorts in the Swiss HIV Cohort Study – A mixed-methods study"
 
-Die Umsetzung des TwiCs-Designs, einschliesslich der Einführung eines "Randomization Consent" in eine bestehende, nationale Kohorte, ist machbar. Die Akzeptanzrate unter den Teilnehmenden war hoch.
+Die Implementierung des TwiCs-Designs, einschliesslich der Einführung eines "Randomization Consent" in eine bestehende, nationale Kohorte, ist machbar. Die Akzeptanzrate unter den Teilnehmenden war hoch.
 
 <p> </p>
 
