@@ -2,6 +2,14 @@
 title: "Actualités"
 format: html
 ---
+
+<div class="news-wrapper">
+<div class="news-item red1">
+  <h2>12.08.2025</h2>
+  <img src="images/KSA.jpg" alt="Retune" style="width:100%; max-width:600px;">
+  <p>Nous avons commencé le recrutement des participants au centre SHCS de Aarau</p>
+</div>
+
 <div class="news-wrapper"> 
 <div class="news-item red1"> 
   <h2>12.09.2025</h2> <img src="images/zehnder.png" alt="Retune" style="width:100%; max-width:600px;"> 
