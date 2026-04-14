@@ -7,7 +7,7 @@ format: html
 
 ## "Offer of a menu of different nicotine substitute products to REduce Tobacco Use iN pEople living with HIV (RETUNE): a protocol for a pragmatic randomized trial within the Swiss HIV Cohort Study"
 
-The peer-reviewed version of the RETUNE protocol provides a condense overview on the trial design. 
+The peer-reviewed publication of the RETUNE trial protocol provides a concise overview of the study design.
 
 <p> </p>
 

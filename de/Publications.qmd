@@ -5,6 +5,19 @@ format: html
 <p> </p>
 <p> </p>
 
+## "Offer of a menu of different nicotine substitute products to REduce Tobacco Use iN pEople living with HIV (RETUNE): a protocol for a pragmatic randomized trial within the Swiss HIV Cohort Study"
+
+Die begutachtete Publikation des RETUNE-Studienprotokolls bietet einen prägnanten Überblick über das Studiendesign.
+
+<p> </p>
+
+[![](images/bmc_trials.png){fig-align="center" width="700"}](https://link.springer.com/article/10.1186/s13063-026-09622-6)
+
+
+
+<p> </p>
+<p> </p>
+
 ## "Implementing a randomization consent to enable Trials within Cohorts in the Swiss HIV Cohort Study – A mixed-methods study"
 
 Die Implementierung des TwiCs-Designs, einschliesslich der Einführung eines "Randomization Consent" in eine bestehende, nationale Kohorte, ist machbar. Die Akzeptanzrate unter den Teilnehmenden war hoch.
