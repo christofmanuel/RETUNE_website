@@ -3,6 +3,15 @@ title: "News"
 format: html
 ---
 
+
+<div class="news-wrapper"> 
+<div class="news-item red1"> 
+  <h2>13.04.2026</h2> <img src="images/bmc_trials.png" alt="Retune" style="width:100%; max-width:600px;"> 
+  <p>**New publication**</p> 
+  <p>A peer-reviewed publication of the RETUNE trial protocol provides a concise overview of the study design.</p> 
+  <p>*Schönenberger, C.M., Speich, B., Zehnder, E.R. et al. Offer of a menu of different nicotine substitute products to REduce Tobacco Use iN pEople living with HIV (RETUNE): a protocol for a pragmatic randomized trial within the Swiss HIV Cohort Study. Trials (2026). https://doi.org/10.1186/s13063-026-09622-6*</p> 
+  </div>
+
 <div class="news-wrapper">
 <div class="news-item red1">
   <h2>13.11.2025</h2>
