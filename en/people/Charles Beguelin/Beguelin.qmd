@@ -1,0 +1,26 @@
+---
+title: "Charles Béguelin"
+subtitle: "MD"
+role: "Site Investigator"
+people_group: "any"
+email: "Charles.Beguelin@szb-chb.ch"
+page-layout: full
+image: beguelin.jpeg
+about: 
+  id: about
+  template: jolla
+  image-shape: round
+  image: beguelin.jpeg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:Charles.Beguelin@szb-chb.ch
+    - icon: link
+      text: More Information
+      href: https://www.spitalzentrum-biel.ch/medizinisches-angebot/abteilungen/innere-medizin/infektiologie
+---
+
+<div style="text-align: center;">
+  <p style="font-size: 18px; font-weight: bold;">Site Investigator</p>
+  <p style="font-size: ">Hospital Center Biel/Bienne</p>
+</div>
