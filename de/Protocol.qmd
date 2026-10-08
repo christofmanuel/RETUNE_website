@@ -7,6 +7,13 @@ editor:
 
 <p> </p>
 
+## Version 1.3:
+
+[Download the Protocol
+(PDF)](files/RETUNE_Protocol_V1.2.pdf){target="_blank"}
+
+<p> </p>
+
 ## Version 1.2:
 
 [Download the Protocol
@@ -23,42 +30,184 @@ editor:
 
 ## Protocol amendment history:
 
-+------------------+---------------+----------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+---------------+
-| Protocol version | Protocol date | Description                                                                                                                      | Changes to prior version                                                                                                                                                                                                                                       | Status       | Approval date |
-+==================+===============+==================================================================================================================================+================================================================================================================================================================================================================================================================+==============+===============+
-| 1.0              | 28.11.2024    | Initial protocol submission to the ethics committee (Ethikkommission Nordwest- und Zentral Schweiz) in November 2024.            |                                                                                                                                                                                                                                                                | Not approved | 19.12.2025    |
-+------------------+---------------+----------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+---------------+
-| 1.1              | 06.01.2025    | Adapted version after comments from the ethics committee. This was the finally approved version before the start of recruitment. | \-**Change of eligibility criteria:** Following the recommendation of the ethics committee, we changed the eligibility criteria and excluded pregnant women from the trial.                                                                                    | Approved     | 08.01.2025    |
-|                  |               |                                                                                                                                  |                                                                                                                                                                                                                                                                |              |               |
-|                  |               |                                                                                                                                  | \-**Clarification on data collection:** We specified when RETUNE uses trial specific data collection and when routine cohort data collection.                                                                                                                  |              |               |
-|                  |               |                                                                                                                                  |                                                                                                                                                                                                                                                                |              |               |
-|                  |               |                                                                                                                                  | \-**Clarification on participation in other research projects:** RETUNE participants are allowed to participate in other research while RETUNE participation.                                                                                                  |              |               |
-|                  |               |                                                                                                                                  |                                                                                                                                                                                                                                                                |              |               |
-|                  |               |                                                                                                                                  | \-**Specification on the trial discontinuation:** Participants can discontinue intervention product use and will remain in the cohort.                                                                                                                         |              |               |
-|                  |               |                                                                                                                                  |                                                                                                                                                                                                                                                                |              |               |
-|                  |               |                                                                                                                                  | \-**Addition of monitoring plan:** The monitoring procedure is outlined in chapter 9 of the revised protocol.                                                                                                                                                  |              |               |
-+------------------+---------------+----------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+---------------+
-| 1.1              | 06.01.2025    | Addition of a new center, protocol version remains the same.                                                                     | \-**Addition of a new center:** The Cantonal Hospital St. Gallen and the University Hospital Zurich has been added as a participating center.                                                                                                                  | Approved     | 15.04.2025    |
-+------------------+---------------+----------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+---------------+
-| 1.1              | 06.01.2025    | Addition of a new center, protocol version remains the same.                                                                     | **-Addition of a new center:** The University Hospital Bern has been added as a participating center.                                                                                                                                                          | Approved     | 07.05.2025    |
-+------------------+---------------+----------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+---------------+
-| 1.1              | 06.01.2025    | Addition of a new center, protocol version remains the same.                                                                     | **-Addition of a new center:** The University Hospital Geneva has been added as a participating center.                                                                                                                                                        | Approved     | 09.07.2025    |
-+------------------+---------------+----------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+---------------+
-| 1.1              | 06.01.2025    | Addition of a new center, protocol version remains the same.                                                                     | **-Addition of a new center:** The University Hospital Lausanne has been added as a participating center.                                                                                                                                                      | Approved     | 29.07.2025    |
-+------------------+---------------+----------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+---------------+
-| 1.2              | 08.08.202     | Adapted version based on accumulated changes over the course of the trial.                                                       | \-**Addition of a new center:** The Cantonal Hospital Aarau has been added as a participating center.                                                                                                                                                          | Approved     | 24.09.2025    |
-|                  |               |                                                                                                                                  |                                                                                                                                                                                                                                                                |              |               |
-|                  |               |                                                                                                                                  | \-**Removal of biochemical verification of smoking cessation:** The planned biochemical verification of patient-reported smoking abstinence using plasma anabasine as an explanatory endpoint has been removed.                                                |              |               |
-|                  |               |                                                                                                                                  |                                                                                                                                                                                                                                                                |              |               |
-|                  |               |                                                                                                                                  | \-**Changes to secondary endpoints:** We have added measurement of total cholesterol in addition to HDL- and LDL-cholesterol. We have also removed death from the composite cardiovascular endpoint, as mortality will be captured as a serious adverse event. |              |               |
-|                  |               |                                                                                                                                  |                                                                                                                                                                                                                                                                |              |               |
-|                  |               |                                                                                                                                  | \-**Additional methodological details:** We have added information on allocation concealment and blinding.                                                                                                                                                     |              |               |
-|                  |               |                                                                                                                                  |                                                                                                                                                                                                                                                                |              |               |
-|                  |               |                                                                                                                                  | \-**Correction of primary estimand**: An error in the definition of the primary estimand has been corrected, and the description improved for clarity.                                                                                                         |              |               |
-|                  |               |                                                                                                                                  |                                                                                                                                                                                                                                                                |              |               |
-|                  |               |                                                                                                                                  | \-**Statistical analysis updates:** We have added details on the conduct of subgroup analyses and the handling of missing data.                                                                                                                                |              |               |
-|                  |               |                                                                                                                                  |                                                                                                                                                                                                                                                                |              |               |
-|                  |               |                                                                                                                                  | \-**Addition of process evaluation:** We have included a paragraph describing the planned process evaluation study to better understand potential mechanisms of the intervention’s effect (or lack thereof).                                                   |              |               |
-+------------------+---------------+----------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+---------------+
++----------+------------+------------------+-----------------------------+----------+------------+
+| Protocol | Protocol   | Description      | Changes to prior version    | Status   | Approval   |
+| version  | date       |                  |                             |          | date       |
++==========+============+==================+=============================+==========+============+
+| 1.0      | 28.11.2024 | Initial protocol |                             | Not      | 19.12.2025 |
+|          |            | submission to    |                             | approved |            |
+|          |            | the ethics       |                             |          |            |
+|          |            | committee        |                             |          |            |
+|          |            | (Ethikkommission |                             |          |            |
+|          |            | Nordwest- und    |                             |          |            |
+|          |            | Zentral Schweiz) |                             |          |            |
+|          |            | in November      |                             |          |            |
+|          |            | 2024.            |                             |          |            |
++----------+------------+------------------+-----------------------------+----------+------------+
+| 1.1      | 06.01.2025 | Adapted version  | \-**Change of eligibility   | Approved | 08.01.2025 |
+|          |            | after comments   | criteria:** Following the   |          |            |
+|          |            | from the ethics  | recommendation of the       |          |            |
+|          |            | committee. This  | ethics committee, we        |          |            |
+|          |            | was the finally  | changed the eligibility     |          |            |
+|          |            | approved version | criteria and excluded       |          |            |
+|          |            | before the start | pregnant women from the     |          |            |
+|          |            | of recruitment.  | trial.                      |          |            |
+|          |            |                  |                             |          |            |
+|          |            |                  | \-**Clarification on data   |          |            |
+|          |            |                  | collection:** We specified  |          |            |
+|          |            |                  | when RETUNE uses trial      |          |            |
+|          |            |                  | specific data collection    |          |            |
+|          |            |                  | and when routine cohort     |          |            |
+|          |            |                  | data collection.            |          |            |
+|          |            |                  |                             |          |            |
+|          |            |                  | \-**Clarification on        |          |            |
+|          |            |                  | participation in other      |          |            |
+|          |            |                  | research projects:** RETUNE |          |            |
+|          |            |                  | participants are allowed to |          |            |
+|          |            |                  | participate in other        |          |            |
+|          |            |                  | research while RETUNE       |          |            |
+|          |            |                  | participation.              |          |            |
+|          |            |                  |                             |          |            |
+|          |            |                  | \-**Specification on the    |          |            |
+|          |            |                  | trial discontinuation:**    |          |            |
+|          |            |                  | Participants can            |          |            |
+|          |            |                  | discontinue intervention    |          |            |
+|          |            |                  | product use and will remain |          |            |
+|          |            |                  | in the cohort.              |          |            |
+|          |            |                  |                             |          |            |
+|          |            |                  | \-**Addition of monitoring  |          |            |
+|          |            |                  | plan:** The monitoring      |          |            |
+|          |            |                  | procedure is outlined in    |          |            |
+|          |            |                  | chapter 9 of the revised    |          |            |
+|          |            |                  | protocol.                   |          |            |
++----------+------------+------------------+-----------------------------+----------+------------+
+| 1.1      | 06.01.2025 | Addition of a    | \-**Addition of a new       | Approved | 15.04.2025 |
+|          |            | new center,      | center:** The Cantonal      |          |            |
+|          |            | protocol version | Hospital St. Gallen and the |          |            |
+|          |            | remains the      | University Hospital Zurich  |          |            |
+|          |            | same.            | has been added as a         |          |            |
+|          |            |                  | participating center.       |          |            |
++----------+------------+------------------+-----------------------------+----------+------------+
+| 1.1      | 06.01.2025 | Addition of a    | **-Addition of a new        | Approved | 07.05.2025 |
+|          |            | new center,      | center:** The University    |          |            |
+|          |            | protocol version | Hospital Bern has been      |          |            |
+|          |            | remains the      | added as a participating    |          |            |
+|          |            | same.            | center.                     |          |            |
++----------+------------+------------------+-----------------------------+----------+------------+
+| 1.1      | 06.01.2025 | Addition of a    | **-Addition of a new        | Approved | 09.07.2025 |
+|          |            | new center,      | center:** The University    |          |            |
+|          |            | protocol version | Hospital Geneva has been    |          |            |
+|          |            | remains the      | added as a participating    |          |            |
+|          |            | same.            | center.                     |          |            |
++----------+------------+------------------+-----------------------------+----------+------------+
+| 1.1      | 06.01.2025 | Addition of a    | **-Addition of a new        | Approved | 29.07.2025 |
+|          |            | new center,      | center:** The University    |          |            |
+|          |            | protocol version | Hospital Lausanne has been  |          |            |
+|          |            | remains the      | added as a participating    |          |            |
+|          |            | same.            | center.                     |          |            |
++----------+------------+------------------+-----------------------------+----------+------------+
+| 1.2      | 08.08.202  | Adapted version  | \-**Addition of a new       | Approved | 24.09.2025 |
+|          |            | based on         | center:** The Cantonal      |          |            |
+|          |            | accumulated      | Hospital Aarau has been     |          |            |
+|          |            | changes over the | added as a participating    |          |            |
+|          |            | course of the    | center.                     |          |            |
+|          |            | trial.           |                             |          |            |
+|          |            |                  | \-**Removal of biochemical  |          |            |
+|          |            |                  | verification of smoking     |          |            |
+|          |            |                  | cessation:** The planned    |          |            |
+|          |            |                  | biochemical verification of |          |            |
+|          |            |                  | patient-reported smoking    |          |            |
+|          |            |                  | abstinence using plasma     |          |            |
+|          |            |                  | anabasine as an explanatory |          |            |
+|          |            |                  | endpoint has been removed.  |          |            |
+|          |            |                  |                             |          |            |
+|          |            |                  | \-**Changes to secondary    |          |            |
+|          |            |                  | endpoints:** We have added  |          |            |
+|          |            |                  | measurement of total        |          |            |
+|          |            |                  | cholesterol in addition to  |          |            |
+|          |            |                  | HDL- and LDL-cholesterol.   |          |            |
+|          |            |                  | We have also removed death  |          |            |
+|          |            |                  | from the composite          |          |            |
+|          |            |                  | cardiovascular endpoint, as |          |            |
+|          |            |                  | mortality will be captured  |          |            |
+|          |            |                  | as a serious adverse event. |          |            |
+|          |            |                  |                             |          |            |
+|          |            |                  | \-**Additional              |          |            |
+|          |            |                  | methodological              |          |            |
+|          |            |                  | details:** We have added    |          |            |
+|          |            |                  | information on allocation   |          |            |
+|          |            |                  | concealment and blinding.   |          |            |
+|          |            |                  |                             |          |            |
+|          |            |                  | \-**Correction of primary   |          |            |
+|          |            |                  | estimand**: An error in the |          |            |
+|          |            |                  | definition of the primary   |          |            |
+|          |            |                  | estimand has been           |          |            |
+|          |            |                  | corrected, and the          |          |            |
+|          |            |                  | description improved for    |          |            |
+|          |            |                  | clarity.                    |          |            |
+|          |            |                  |                             |          |            |
+|          |            |                  | \-**Statistical analysis    |          |            |
+|          |            |                  | updates:** We have added    |          |            |
+|          |            |                  | details on the conduct of   |          |            |
+|          |            |                  | subgroup analyses and the   |          |            |
+|          |            |                  | handling of missing data.   |          |            |
+|          |            |                  |                             |          |            |
+|          |            |                  | \-**Addition of process     |          |            |
+|          |            |                  | evaluation:** We have       |          |            |
+|          |            |                  | included a paragraph        |          |            |
+|          |            |                  | describing the planned      |          |            |
+|          |            |                  | process evaluation study to |          |            |
+|          |            |                  | better understand potential |          |            |
+|          |            |                  | mechanisms of the           |          |            |
+|          |            |                  | intervention’s effect (or   |          |            |
+|          |            |                  | lack thereof).              |          |            |
++----------+------------+------------------+-----------------------------+----------+------------+
+| 1.3      | 16.08.2026 | Adapted version  | \-**Addition of a new       | Approved | 21.09.2026 |
+|          |            | based on         | center:** The Cantonal      |          |            |
+|          |            | accumulated      | Hospital Biel/Bienne has    |          |            |
+|          |            | changes over the | been added as a             |          |            |
+|          |            | course of the    | participating center.       |          |            |
+|          |            | trial.           |                             |          |            |
+|          |            |                  | \-**Change of product:** We |          |            |
+|          |            |                  | will gradually replace the  |          |            |
+|          |            |                  | E-cigarette model used up   |          |            |
+|          |            |                  | to now by the E-cigarette   |          |            |
+|          |            |                  | model ‘Pen Nexi Pro         |          |            |
+|          |            |                  | Aspire’. The reason for the |          |            |
+|          |            |                  | change is, that the         |          |            |
+|          |            |                  | originally used             |          |            |
+|          |            |                  | e-cigarettes are not        |          |            |
+|          |            |                  | commercially available in   |          |            |
+|          |            |                  | Switzerland anymore.        |          |            |
+|          |            |                  |                             |          |            |
+|          |            |                  | \-**Changes to outcomes:**  |          |            |
+|          |            |                  | The description has been    |          |            |
+|          |            |                  | improved for clarity. We    |          |            |
+|          |            |                  | have added all-cause death  |          |            |
+|          |            |                  | to the composite            |          |            |
+|          |            |                  | cardiovascular endpoint.    |          |            |
+|          |            |                  |                             |          |            |
+|          |            |                  | \-**Clarification of        |          |            |
+|          |            |                  | primary estimand**: The     |          |            |
+|          |            |                  | description has been        |          |            |
+|          |            |                  | improved for clarity. We    |          |            |
+|          |            |                  | have added risk ratio and   |          |            |
+|          |            |                  | absolute risk difference to |          |            |
+|          |            |                  | the summary measure.        |          |            |
+|          |            |                  |                             |          |            |
+|          |            |                  | \-**Clarification of the    |          |            |
+|          |            |                  | statistical analysis**: The |          |            |
+|          |            |                  | description for the methods |          |            |
+|          |            |                  | used for the per-protocol   |          |            |
+|          |            |                  | analysis has been improved  |          |            |
+|          |            |                  | for clarity.                |          |            |
+|          |            |                  |                             |          |            |
+|          |            |                  | \-**Changes to the          |          |            |
+|          |            |                  | pre-specified subgroup      |          |            |
+|          |            |                  | analysis:** We added 5 new  |          |            |
+|          |            |                  | subgroup analysis to the    |          |            |
+|          |            |                  | list of pre-specified       |          |            |
+|          |            |                  | subgroups of interest.      |          |            |
++----------+------------+------------------+-----------------------------+----------+------------+
 
 # 
